@@ -1,0 +1,115 @@
+﻿
+/*-----------------[初始化]--------------*/
+body{color: #444;font-size: 12px;line-height: 1.5;
+    font-family:"微软雅黑","Microsoft Yahei";
+    -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-size-adjust: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+a{color: #444;}
+a:hover{color: #f60;}
+img{max-width: 100%;
+    transition: .3s;
+    -ms-transition: .3s;
+    -moz-transition: .3s;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+}
+input,textarea,select{font-size: 12px;color: #444;
+    font-family:"微软雅黑","Microsoft Yahei";outline: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+input[type='submit'],input[type='reset'],input[type='button'],select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+input[type='submit'],input[type='reset'],input[type='button']{cursor: pointer;}
+::-webkit-input-placeholder {color: #999;}
+::-moz-placeholder {color: #999; }
+::-ms-input-placeholder {color: #999;}
+
+.ani{
+    transition: .3s;
+    -ms-transition: .3s;
+    -moz-transition: .3s;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+}
+
+/*布局*/
+.wp{width: 100%;max-width: 1200px;margin: 0 auto;}
+.h50{height: 50px;clear: both;overflow: hidden;}
+.h100{height: 100px;clear: both;overflow: hidden;}
+
+*{
+    outline: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;   
+    box-sizing: border-box;
+}
+
+
+/*******************************
+  -------[=头部]-------
+********************************/
+
+
+/*******************************
+    -------[=导航]-------
+********************************/
+
+
+/*******************************
+  -------[=banner]-------
+*******************************/
+.banner{height: 832px;}
+.banner .slick-slider,.banner .slick-list,.banner .slick-track,.banner .slick-slide{height: 100%;}
+.banner .slick-slide{outline: 0;position: relative;
+    background-position: center center;background-repeat: no-repeat;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.banner .slick-next,.banner .slick-prev{
+    position: absolute;top: 50%;margin-top: -25px;overflow: hidden;
+    width: 45px;height: 50px;font-size: 0;line-height: 0;z-index: 100;
+    background: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -o-background-size: auto 50px;
+    -ms-background-size: auto 50px;
+    -moz-background-size: auto 50px;
+    -webkit-background-size: auto 50px;
+    background-size: auto 50px;
+    cursor: pointer;
+}
+.banner .slick-prev{left: 50%;margin-left: -645px;background-image: url(../images/arr-l.png);}
+.banner .slick-next{right: 50%;margin-right: -645px;background-image: url(../images/arr-r.png);}
+
+.banner .slick-dots{position: absolute;left: 0;bottom: 30px;width: 100%;text-align: center;z-index: 99;}
+.banner .slick-dots li{display: inline-block;margin: 0 2px;}
+.banner .slick-dots li button{display: block;width: 24px;height: 24px;
+    font-size: 0;line-height: 0;text-indent: 999px;background-color: #fff;border-radius: 50%;
+    border: none;cursor: pointer;
+}
+.banner .slick-dots li.slick-active button{background-color: #000;}
+
+
+/*******************************
+  -------[=底部]-------
+********************************/
+
+
+/*******************************
+    -------[=正文]-------
+********************************/
+
+
+
+

@@ -1,0 +1,3842 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content=" width=device-width,user-scalable=no,initial-scale=1.0" />
+		
+<meta name="SiteName" content="国家民委门户网站"/>
+<meta name="SiteDomain" content="https://www.neac.gov.cn"/>
+<meta name="SiteIDCode" content="bm08000014"/>
+
+<meta name="others" content="页面生成时间 2024-07-26 15:16:47" />
+<title>国家民族事务委员会</title>
+		<link rel="stylesheet" href="/seac/xhtml/css/common.css" />
+		<link rel="stylesheet" href="/seac/xhtml/css/index.css" />
+		<script src="/seac/xhtml/js/jquery.min.js"></script>
+		<script src="/seac/xhtml/js/public.js"></script>
+		<script src="/seac/xhtml/js/slider.js"></script>
+		<script src="/seac/xhtml/js/index.js"></script>
+		<script type="text/javascript" src="/seac/xhtml/js/jquery.SuperSlide.js"></script>
+
+		<STYLE type="text/css">
+			body {
+				/* background: url(https://www.neac.gov.cn/seac/xhtml/images/index/ershidasybg.jpg) top center no-repeat; */
+				background-size: 100%;
+				background: #fff;
+			}
+
+			
+			.indexBanner {
+				width: 100%;
+				height: auto;
+				overflow: hidden;
+				position: relative;
+				margin-top: 20px;
+			}
+			
+			.common4 {
+				margin-top: 0px;
+				height: 260px !important;
+			}
+			
+			.sidelist>.tab-pane li a{
+				width: 100%;
+			}
+
+			.picScroll-left3 {
+				width: 100%;
+				height: 184px;
+				overflow: hidden;
+				position: relative;
+				margin: 20px auto 10px auto;
+			}
+			
+			.picScroll-left3 .hd {
+				overflow: hidden;
+				width: 100%;
+				height: 36px;
+				position: absolute;
+				top: 44%;
+				margin-top: -15px;
+			}
+			
+			.picScroll-left3 .hd .prev,
+			.picScroll-left3 .hd .next {
+				display: block;
+				width: 27px;
+				height: 36px;
+				overflow: hidden;
+				cursor: pointer;
+				z-index: 100;
+				position: absolute;
+			}
+			
+			.picScroll-left3 .hd .prev {
+				background: url(/seac/xhtml/images/index/ztqhbtnl.png) no-repeat;
+				left: 0;
+			}
+			
+			.picScroll-left3 .hd .next {
+				background: url(/seac/xhtml/images/index/ztqhbtnr.png) no-repeat;
+				float: right;
+				right: 0;
+			}
+
+			.picScroll-left6 {
+				width: 100%;
+				height: 184px;
+				overflow: hidden;
+				position: relative;
+				margin: 20px auto 10px auto;
+			}
+			
+			.picScroll-left6 .hd {
+				overflow: hidden;
+				width: 100%;
+				height: 36px;
+				position: absolute;
+				top: 44%;
+				margin-top: -15px;
+			}
+			
+			.picScroll-left6 .hd .prev,
+			.picScroll-left6 .hd .next {
+				display: block;
+				width: 27px;
+				height: 36px;
+				overflow: hidden;
+				cursor: pointer;
+				z-index: 100;
+				position: absolute;
+			}
+			
+			.picScroll-left6 .hd .prev {
+				background: url(/seac/xhtml/images/index/ztqhbtnl.png) no-repeat;
+				left: 0;
+			}
+			
+			.picScroll-left6 .hd .next {
+				background: url(/seac/xhtml/images/index/ztqhbtnr.png) no-repeat;
+				float: right;
+				right: 0;
+			}
+
+			
+			.picScroll-left1 .hd ul {
+				float: right;
+				overflow: hidden;
+				zoom: 1;
+				margin-top: 10px;
+				zoom: 1;
+			}
+			
+			.picScroll-left1 .hd ul li {
+				float: left;
+				width: 9px;
+				height: 9px;
+				overflow: hidden;
+				margin-right: 5px;
+				text-indent: -999px;
+				cursor: pointer;
+				background: url(/seac/xhtml/"images/icoCircle.gif") 0 -9px no-repeat;
+			}
+			
+			.picScroll-left1 .hd ul li.on {
+				background-position: 0 0;
+			}
+			
+			.picScroll-left2 {
+				float: left;
+				width: 50%;
+				height: 320px;
+				overflow: hidden;
+				position: relative;
+				margin: 10px auto;
+			}
+			
+			.picScroll-left2 .hd {
+				overflow: hidden;
+				height: 32px;
+				position: absolute;
+				top: 45%;
+			}
+			
+			.picScroll-left2 .hd .prev {
+				background: url(/seac/xhtml/images/index/ztqhbtnl.png) no-repeat;
+				left: 0;
+			}
+			
+			.picScroll-left2 .hd .next {
+				background: url(/seac/xhtml/images/index/ztqhbtnr.png) no-repeat;
+				float: right;
+				right: 0;
+			}
+			
+			.picScroll-left2 .hd .prev,
+			.picScroll-left2 .hd .next {
+				display: block;
+				width: 27px;
+				height: 36px;
+				overflow: hidden;
+				cursor: pointer;
+				z-index: 100;
+				position: absolute;
+			}
+			
+			.picScroll-left2 .bd ul li {
+				width: 195px;
+				text-align: center;
+			}
+			
+			.picScroll-left2 .bd ul li .pic {
+				text-align: center;
+				width: 190px;
+			}
+			
+			.picScroll-left2 .bd ul li .pic img {
+				width: 180px;
+				height: 320px;
+				display: block;
+				margin-top: 0px;
+			}			
+			
+			.picScroll-left3 .bd ul {
+				overflow: hidden;
+				zoom: 1;
+			}
+			
+			.picScroll-left3 .bd ul li {
+				float: left;
+				_display: inline;
+				overflow: hidden;
+				text-align: center;
+				width: 50%;
+			}
+			
+			.picScroll-left3 .bd ul li .pic {
+				text-align: center;
+			}
+			
+			.picScroll-left3 .bd ul li .pic span {
+				display: block;
+				text-align: center;
+				line-height: 20px;
+			}
+			
+			.picScroll-left3 .bd ul li .pic img {
+				width: auto;
+				height: 180px;
+			}
+			
+			.picScroll-left6 .bd ul {
+				overflow: hidden;
+				zoom: 1;
+			}
+			
+			.picScroll-left6 .bd ul li {
+				float: left;
+				_display: inline;
+				overflow: hidden;
+				text-align: center;
+				width: 50%;
+			}
+			
+			.picScroll-left6 .bd ul li .pic {
+				text-align: center;
+			}
+			
+			.picScroll-left6 .bd ul li .pic span {
+				display: block;
+				text-align: center;
+				line-height: 20px;
+			}
+			
+			.picScroll-left6 .bd ul li .pic img {
+				width: auto;
+				height: 180px;
+			}			
+			.picScroll-left4 {
+				float: left;
+				width: 50%;
+				height: 320px;
+				overflow: hidden;
+				position: relative;
+				margin: 10px auto;
+			}
+			
+			.picScroll-left4 .hd {
+				overflow: hidden;
+				height: 32px;
+				position: absolute;
+				top: 45%;
+			}
+			
+			.picScroll-left4 .hd .prev {
+				background: url(/seac/xhtml/images/index/ztqhbtnl.png) no-repeat;
+				left: 0;
+			}
+			
+			.picScroll-left4 .hd .next {
+				background: url(/seac/xhtml/images/index/ztqhbtnr.png) no-repeat;
+				float: right;
+				right: 0;
+			}
+			
+			.picScroll-left4 .hd .prev,
+			.picScroll-left4 .hd .next {
+				display: block;
+				width: 27px;
+				height: 36px;
+				overflow: hidden;
+				cursor: pointer;
+				z-index: 100;
+				position: absolute;
+			}
+			
+			.picScroll-left4 .bd ul li {
+				width: 195px;
+				text-align: center;
+			}
+			
+			.picScroll-left4 .bd ul li .pic {
+				text-align: center;
+				width: 190px;
+			}
+			
+			.picScroll-left4 .bd ul li .pic img {
+				width: 180px;
+				height: 320px;
+				display: block;
+				margin-top: 0px;
+			}			
+			
+			.toutiao {
+				clear: both;
+				text-align: center;
+				margin: 10px auto;
+			}
+			
+			.toutiao img {
+				width: 100%;
+				height: auto;
+			}
+			
+			.toutiao a:hover {
+				color: #d52138;
+			}
+			
+			.toutiao p {
+				margin-bottom: 14px;
+			}
+			
+			.zhiding {
+				background: #f7f7f7;
+				height: 70px;
+				padding-top: 8px;
+				overflow: hidden;
+				text-align: center;
+			}
+			
+			.zhiding a {
+				font-weight: bold;
+				color: #015293;
+				line-height: 1.5em;
+			}
+			
+			#floatdivids {
+				width: 260px;
+				height: 145px;
+				position: absolute;
+				top: 0;
+				left: 0;
+				z-index: 1000;
+			}
+			
+			.fwlm .mzfw li.boder_rb {
+				border: none;
+				margin-bottom: -1px;
+				margin-right: -1px;
+			}
+			
+			.fwlm .mzfw li.boder_lt {
+				border: none;
+				margin-left: -1px;
+			}
+			
+			.fwlm .mzfw li {
+				width: 25%;
+			}
+			
+			
+			.jianghua {
+				background: #f7f7f7;
+				height: 40px;
+				line-height: 40px;
+				padding-left: 20px;
+				overflow: hidden;
+				text-align: left;
+			}
+			
+			.jianghua a {
+				font-weight: bold;
+				font-size: 18px;
+				color: #015293;
+				line-height: 1.5em;
+			}
+			
+			.tableft {
+				float:left;
+				width: 49%;
+				margin-right: 2%;
+			}
+			
+			.tabright {
+				float:left;
+				width: 49%;
+			}
+						
+			.shizhengyaowen ul {
+				height: 216px;
+				overflow: hidden;
+			}
+			
+			.yuanxiaologos {
+				width: 100%;
+				height: 50px;
+				max-height: 50px;
+				padding-top:15px;
+			}
+
+			.yuanxiaologo img {
+				width: 90%;
+				height:auto;
+			}
+
+			
+			@media screen and (min-width:991px) {	
+				.yuanxiaologo{
+					float:left;
+					width:16.66%;
+					height:16.66%;
+					text-align: center;
+				}
+				.zztj img{
+					width:100%;
+				}
+}		
+			
+
+			@media screen and (max-width:991px) {
+				/* .ershida {
+					width: 90%;
+					margin: 0px auto;
+					text-align: right;
+					padding: 14px 10px;
+				}
+				.ershida img {
+					width: 90%;
+					height: auto;
+				} */
+				.toutiao a {
+					font-size: 18px;
+					font-weight: 800;
+					color: #015293;
+				}
+				.indexBanner {
+					width: 100%;
+					height: auto;
+					overflow: hidden;
+					position: relative;
+					margin-top: 20px;
+				}
+				.indexBanner img {
+					width: 100%;
+					height: auto;
+				}
+				.picScroll-left3 .bd ul li {
+					width: 100%;
+				}
+				.picScroll-left6 .bd ul li {
+					width: 100%;
+				}				
+				#floatdivids {
+					display: none;
+				}
+				.w675 {
+					width: 100%;
+				}
+				.w380 {
+					width: 96%;
+					margin-top: 20px;
+				}
+				.picScroll-left2 .hd {
+					width: 100%;
+				}
+				.zhiding a {
+					font-size: 18px;
+				}
+				.picScroll-left1 {
+					margin-top: 10px;
+					width: 100%;
+					overflow: hidden;
+					position: relative;
+				}
+				.yuanxiaologo {
+					float:left;
+					width:33.33%;
+					height:40px;
+					text-align: center;
+				}				
+				.tableft {
+				width: 100%;
+				}
+				.tabright {
+				width: 100%;
+				}
+				.header .logosos{
+					margin:35px auto 15px auto;
+				}
+				.zhulao {
+					clear: left;
+					margin-top:65px;
+					text-align: center;
+				}							
+				.zhulao img{
+					width:100%;
+				}	
+				.zztj img{
+					width:100%;
+				}				
+			}
+			
+			@media screen and (min-width:1280px) {
+				body {
+					width: 100%;
+					z-index: 0;
+				}
+				.z1 {
+					width: 1110px;
+					background: none;
+					margin-left: -10px;
+				}
+				.ershida {
+					width: 1100px;
+					margin: 0px auto;
+					text-align: right;
+					padding: 14px 0;
+				}
+				.header {
+					width: 100%;
+					overflow: hidden;
+					background: #fff;
+					margin: 0px auto 0px auto;
+				}
+				.header .logosos {
+				    margin: 35px auto 10px auto;
+				}				
+				.w1140 {
+					width: 1130px;
+					margin: 0 auto;
+					overflow: hidden;
+				}
+				.w1150 {
+					width: 1110px;
+					margin: 0 auto;
+					overflow: hidden;
+				}
+				.w675 {
+					width: 675px;
+				}
+				.w380 {
+					width: 380px;
+				}
+				.picScroll-left2 .hd {
+					width: 375px;
+				}
+				.toutiao a {
+					font-size: 30px;
+					font-weight: 800;
+					color: #015293;
+				}
+				.zhiding a {
+					font-size: 22px;
+				}
+				.header_nav {
+				    width: 100%;
+				    height: 50px;
+				    background: #ffffff !important;
+				}
+				.header_nav .nav {
+				    margin-left: 2px;
+				}				
+				.header_nav .nav li {
+				    font-size: 20px;
+				    font-weight: 600;
+				    width: 161px !important;
+				}
+				.header_nav .nav li:hover {
+					background: url(https://www.neac.gov.cn/seac/xhtml/images/public/nav-bg.png) top center no-repeat;
+				}
+				.header_nav .nav li a:hover {
+				    color: #ffffff !important;
+				}								
+				.header_nav .nav li a {
+				    display: inline-block;
+				    width: 161px;
+				    text-align: center;
+				    color: #015293 !important;
+				    height: 40px;
+				    margin-top: 5px;
+				    line-height: 40px;
+				    border-right:none !important;
+				}
+				.header_nav .nav li.index a {
+				    border-left: none !important;
+				}
+				
+				.z1 .zw11 {
+				    width: 1108px !important;
+				}				
+				.ldzc-left {
+				    float: left;
+				    width: 270px !important;
+				}		
+				.xwzx1 .w1-1 .w1-2 {
+				    width: 330px !important;
+				}
+				.xwzx1 .w1-1 .w1-4 {
+				    width: 360px !important;
+				}	
+				.xxgk11 .w1-1 .w1-2 {
+				    width: 708px !important;
+				}
+				.xxgk11 .w1-1 .w1-5 {
+				    width: 374px !important;
+				}					
+				.zcfg1 .w1-1 .w1-2 {
+				    width: 536px !important;
+				    margin-right: 20px !important;
+				}
+				.zcfg1 .w1-1 .w1-2 .w1-2-1 {
+				    width: 536px !important;
+				}
+				.zcfg1 .w1-1 .w1-2 .w1-2-2 {
+				    width: 536px !important;
+				}																
+				.ztzl1 .zx {
+				    width: 270px !important;
+				    margin-right: 15px !important;
+				}	
+				
+				.hudong .w1-1 a {
+				    display: inline-block;
+				    width: 530px;
+				    height: 67px;
+				    background: #F2F2F2;
+				    margin-right: 20px;
+				    text-align: center;
+				    line-height: 67px;
+				}				
+				.hudong .w1-1 .z2 {
+				  background: url(https://www.neac.gov.cn/seac/xhtml/images/sy/gkzn.png) no-repeat;
+				}
+				.hudong .w1-1 .z3 {
+				  background: url(https://www.neac.gov.cn/seac/xhtml/images/sy/gkml.png) no-repeat;
+				}	
+																										
+				.zhulao {
+					float:right; 
+					margin-top: 40px;
+					text-align: right;
+				}																						
+																
+			}
+
+
+		
+		</STYLE>
+
+	</head>
+
+	<body>
+
+		<!-- <div class="ershida">
+			<a href="http://www.gov.cn/zhuanti/zggcddescqgdbdh/index.htm" target="_blank" class="dys_addLink">
+				<img src="http://www.gov.cn/govweb/xhtml/2019zhuanti/20thCPCNationalCongress/images/danghuiicon.png">
+			</a>
+		</div> -->
+
+		
+		<div class="header">
+				<div class="top">
+					<div class="w1150">
+						<span class="data fl" id="show"></span>
+						<div class="fr">
+							<a href="javascript:void(0);" onclick="zh_tran('s');" class="zh_click" id="zh_click_s">简体</a><span>|</span>
+							<a href="javascript:void(0);" onclick="zh_tran('t');" class="zh_click" id="zh_click_t">繁體</a><span>|</span>
+							<a href="javascript:void(0);" onclick="SetHome(this,'https://www.neac.gov.cn/');">设为首页</a><span>|</span>
+							<a href="javascript:void(0);" onclick="AddFavorite('我的网站',location.href)">收藏本站</a><span>|</span>
+		                    <a target="_blank" href="https://mail.neac.gov.cn" target="_blank">邮件系统</a><span>|</span>
+		                    <a target="_blank" href="http://zs.kaipuyun.cn/s?siteCode=bm08000014" target="_blank">站内搜索</a><span>|</span>
+		                    <a href="javascript:void(0)" onclick="aria.start()">无障碍浏览</a>
+						</div>
+					</div>
+				</div>
+				<div class="logosos w1200">
+					<div class="logo fl">
+						<a href="/seac/index.shtml" title="中华人民共和国国家民族事务委员会">
+							<img src="/seac/xhtml/images/public/logo.png" />
+						</a>
+					</div>
+					<div class="zhulao">
+						<img src="/seac/xhtml/images/public/zhulao-slogan.png" style="width: 80%; height: auto;" />
+					</div>
+				</div>
+				<script>
+						function zz_search(){
+						var qt1 = $('#qt1').val();
+						if(qt1!=''){
+							 var searchword = encodeURI(qt1);
+							 var searchurl ='http://zs.kaipuyun.cn/s?siteCode=bm08000014'+'&searchWord='+searchword;
+		
+							window.open(searchurl);
+							//alert('试运行阶段');
+							
+						}else{
+							 alert('请填写正确的关键字');
+							//alert('试运行阶段');
+						} 
+					}
+					$(function(){
+						$('#btn1').click(function(){
+							zz_search();
+						})
+					})
+		
+				</script>
+				
+				<div class="w1140">
+				
+					<div class="header_nav">
+						<div class="nav">
+							<ul>
+								<li class="index"><a href="/seac/index.shtml" >首页</a></li>
+								<li class="mwjs"><a target="_blank" href="/seac/mwjs/index.shtml" >机构</a></li>
+								<li class="xwzx"><a target="_blank" href="/seac/xwzx/index.shtml" >新闻</a></li>
+								<li class="xxgk"><a target="_blank" href="/seac/xxgk/index.shtml" >公开</a></li>
+								<li class="zcfg"><a href="" >互动</a></li>
+								<li class="cyzd"><a target="_blank" href="/seac/ztzl/index.shtml" >专题</a></li>
+								<li class="ztzl"><a target="_blank" href="/seac/ziliao/index.shtml" >资料</a></li>
+							</ul>
+						</div>
+			         <div class="z1 xlcd1">
+						<!--机构 -->
+						<div class="zw11 bgfff pd25">
+							<div class="ldjs1">
+								<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+    </head>
+    
+    <body>
+        <div class="w1-1">
+            <div style="overflow: hidden;">
+                <div class="ldzc-left">
+                    <div class="w3-1">
+                        <div class="w2-1">
+                            <a target="_blank" href="/seac/mwjs/ldzc/index.shtml" class="on zz">
+                                    委领导
+                            </a>
+							<i></i>
+                                <a target="_blank" href="/seac/mwjs/201012/1009121.shtml" class="zz">
+                                    工作职责
+                            </a>
+						</div>
+                        <div class="w1-3">
+                            <ul>
+                                <li>
+                                    <a target="_blank" href="/seac/mwjs/py/index.shtml">
+                                        <span class="zzz">主任、党组书记：
+                                        </span>
+                                        <b>
+                                            	潘　岳
+                                        </b>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="/seac/mwjs/bbzx/index.shtml">
+                                        <span class="zzz">
+                                            副主任、党组成员：
+                                        </span>
+                                        <b>
+                                            边巴扎西
+                                        </b>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="/seac/mwjs/gwp/index.shtml">
+                                        <span class="zzz">
+                                            副主任、党组成员：
+                                        </span>
+                                        <b>
+                                            郭卫平
+                                        </b>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="/seac/mwjs/dyj/index.shtml">
+                                        <span class="zzz">
+                                            副主任、党组成员：
+                                        </span>
+                                        <b>
+                                            段毅君
+                                        </b>
+                                    </a>
+                                </li>                                
+                                <li>
+                                    <a target="_blank" href="/seac/mwjs/qyz/index.shtml">
+                                        <span class="zzz">
+                                            专职委员（正部长级）：
+                                        </span>
+                                        <b>
+                                            秦宜智
+                                        </b>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="/seac/mwjs/zxy/index.shtml">
+                                        <span class="zzz">
+                                            专职委员：
+                                        </span>
+                                        <b>
+                                            查显友
+                                        </b>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+						
+						<div class="w1-3">
+						   
+						</div>
+						
+                    </div>
+                </div>
+                <div class="w3-2">
+                    <div class="w1-2">
+                        <div class="w2-1">
+                            <a target="_blank" href="/seac/mwjs/jgsz/index.shtml" class="on zz">
+                                机构设置
+                            </a>
+                            <i>
+                            </i>
+                            <a target="_blank" href="/seac/mwjs/zsgx/index.shtml" class="zz">
+                                直属高校
+                            </a>
+                            <i>
+                            </i>
+                            <a target="_blank" href="/seac/mwjs/zswhdw/index.shtml" class="zx">
+                                直属文化事业单位
+                            </a>
+                            <i>
+                            </i>
+                            <a target="_blank" href="/seac/mwjs/zgst/index.shtml" class="zz">
+                                主管社团
+                            </a>								
+                        </div>
+                        <div class="w3-3">
+                            <ul>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009169.shtml" target="_blank"  >办公厅</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009191.shtml" target="_blank"  >协调推进司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009184.shtml" target="_blank"  >理论研究司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009171.shtml" target="_blank"  >政策法规司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009177.shtml" target="_blank"  >民族团结促进司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009179.shtml" target="_blank"  >共同发展司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009181.shtml" target="_blank"  >文化宣传司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009182.shtml" target="_blank"  >教育司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009183.shtml" target="_blank"  >国际交流司<br>（港澳台办公室）</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009186.shtml" target="_blank"  >人事司</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009187.shtml" target="_blank"  >机关党委</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009189.shtml" target="_blank"  >离退休干部局</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009193.shtml" target="_blank"  >舆情中心</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009195.shtml" target="_blank"  >古籍整理研究室</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201805/1009197.shtml" target="_blank"  >机关服务局</a>
+                                    </li>
+
+                            </ul>
+                        </div>
+                        <div class="w3-3">
+                            <ul>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/200903/1009152.shtml" target="_blank"  >中央民族大学</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009153.shtml" target="_blank"  >中南民族大学</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201402/1009154.shtml" target="_blank"  >西南民族大学</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009155.shtml" target="_blank"  >西北民族大学</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009156.shtml" target="_blank"  >北方民族大学</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009157.shtml" target="_blank"  >大连民族大学</a>
+                                    </li>
+
+                            </ul>
+                        </div>
+                        <div class="w3-3">
+                            <ul>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009158.shtml" target="_blank"  >中央民族干部学院</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009159.shtml" target="_blank"  >中央民族歌舞团</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009160.shtml" target="_blank"  >民族出版社</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009161.shtml" target="_blank"  >中国民族语文翻译中心（局）</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009162.shtml" target="_blank"  >民族文化宫</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201506/1009163.shtml" target="_blank"  >民族团结杂志社</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201710/1009164.shtml" target="_blank"  >民族画报社</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201504/1009165.shtml" target="_blank"  >中国民族博物馆</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/201401/1009166.shtml" target="_blank"  >中国民族报社</a>
+                                    </li>
+
+                            </ul>
+                        </div>
+                        <div class="w3-3">
+                            <ul>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/rlxmzx/jj.shtml" target="_blank"  >中国人类学民族学研究会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/ssmzsyjx/jj.shtml" target="_blank"  >中国少数民族双语教学<br/>研究会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/ssmzjj/jj.shtml" target="_blank"  >中国少数民族经济研究会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/mzzc/jj.shtml" target="_blank"  >中国民族政策研究会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/twssmz/jj.shtml" target="_blank"  >台湾少数民族研究会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/cxmzs/jj.shtml" target="_blank"  >中国朝鲜民族史学会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/ssmzzxjss/jj.shtml" target="_blank"  >中国少数民族哲学<br/>及社会思想史学会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/mzdxxy/jj.shtml" target="_blank"  >中央民族大学校友会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/mzdxfz/jj.shtml" target="_blank"  >中央民族大学附中校友会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/ssmzdwjl/jj.shtml" target="_blank"  >中国少数民族对外<br/>交流协会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/ssmzwwbh/jj.shtml" target="_blank"  >中国少数民族文物<br/>保护协会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/mzyy/jj.shtml" target="_blank"  >中国民族医药协会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/ssmzwhys/jj.shtml" target="_blank"  >中国少数民族文化艺术<br/>促进会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/mztjjb/jj.shtml" target="_blank"  >中华民族团结进步协会</a>
+                                    </li>
+
+                                    <li>
+                                        <i>
+                                        </i>
+                                        <a href="/seac/mwjs/mzjs/jj.shtml" target="_blank"  >中国民族建筑研究会</a>
+                                    </li>
+
+                            </ul>
+                        </div>						
+						
+                    </div>
+                </div>
+                <div class="w3-3">
+                    <div class="fl w-z">
+
+                        <!-- <div class="w-w">
+                            <div class="ww">
+                                <a target="_blank" href="/seac/mwjs/201012/1009121.shtml">
+                                    <i>
+                                    </i>
+                                    <span>
+                                        工作职责
+                                    </span>
+                                </a>
+                            </div>
+                        </div> -->						
+						
+                        <div class="w2-1">
+                            <span class="on zz">
+                                联系方式
+                            </span>
+                        </div>
+                        <ul>
+                            <li>
+                                <i class="i1">
+                                </i>
+                                <b>
+                                    地址：
+                                </b>
+                                <span>
+                                    北京市西城区复兴门内大街甲49号
+                                </span>
+                            </li>
+                            <li>
+                                <i class="i2">
+                                </i>
+                                <b>
+                                    邮编：
+                                </b>
+                                <span>
+                                    100800
+                                </span>
+                            </li>
+                            <li>
+                                <i class="i4">
+                                </i>
+                                <b>
+                                    电话(总机)：
+                                </b>
+                                <span>
+                                    010-66508000
+                                </span>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>
+						</div>	
+						<!--新闻 -->				
+						<div class="xwzx1">
+							<div class="w1-1">
+						<div class="w1-2 fl">
+								<div class="w1-2-1">
+									<a target="_blank" href="http://www.gov.cn/xinwen/yaowen.htm" target="_blank" >时政要闻</a>
+									<i></i><a target="_blank" href="/seac/xwzx/mwyw/index.shtml" class="on">民委要闻</a>
+								</div>
+								<div class="w1-2-2">
+									<script language="javascript" type="text/javascript" src="https://www.gov.cn/pushinfo/v150203/pushinfo.js"></script>
+									<a target="_blank" href="https://www.gov.cn/xinwen/yaowen.htm" class="more" target="_blank">更多>></a>
+								</div>
+								<div class="w1-2-2" style="display: block;">
+									<ul>
+
+											<li>
+												<a href="/seac/xwzx/202407/1174865.shtml" target="_blank" title='国家民委党组召开理论学习中心组学习（扩大）会专题学习二十届三中全会精神'  >国家民委党组召开理论学习中心组学习（...</a>
+											</li>
+
+											<li>
+												<a href="/seac/xwzx/202407/1174813.shtml" target="_blank" title='中华民族共同体体验馆2024年第三期中华优秀文化体验项目开展'  >中华民族共同体体验馆2024年第三期中华...</a>
+											</li>
+
+											<li>
+												<a href="/seac/xwzx/202407/1174690.shtml" target="_blank" title='郭卫平会见尼加拉瓜总统投资、贸易和国际合作顾问、对华合作牵头人劳雷亚诺'  >郭卫平会见尼加拉瓜总统投资、贸易和国...</a>
+											</li>
+
+											<li>
+												<a href="/seac/xwzx/202407/1174570.shtml" target="_blank" title='第十二届全国少数民族传统体育运动会马上项目在昭苏开赛'  >第十二届全国少数民族传统体育运动会马...</a>
+											</li>
+
+											<li>
+												<a href="/seac/xwzx/202407/1174548.shtml" target="_blank" title='第十二届全国少数民族传统体育运动会马上项目在新疆昭苏开赛'  >第十二届全国少数民族传统体育运动会马...</a>
+											</li>
+
+											<li>
+												<a href="/seac/xwzx/202407/1174344.shtml" target="_blank" title='国家民委举行“七一”表彰大会暨党组书记讲党课'  >国家民委举行“七一”表彰大会暨党组书...</a>
+											</li>
+
+											<li>
+												<a href="/seac/xwzx/202407/1174326.shtml" target="_blank" title='郭卫平在贵州省调研并出席民族团结“村BA”篮球邀请赛'  >郭卫平在贵州省调研并出席民族团结“村...</a>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xwzx/mwyw/index.shtml" class="more">更多>></a>
+								</div>
+							</div>
+							<div class="w1-4 fl">
+								<div class="w1-2-1">
+									<a target="_blank" href="/seac/xwzx/mwdt/index.shtml" class="on">民委动态</a><i></i><a target="_blank" href="/seac/xwzx/wsdt/index.shtml">委属动态</a><i></i><a target="_blank" href="/seac/xwzx/dfdt/index.shtml">地方动态</a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174957.shtml" target="_blank" title='驻华外交官参观“铸牢中华民族共同体意识文物古籍展”'  >驻华外交官参观“铸牢中华民族共同体意...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174933.shtml" target="_blank" title='国家民委铸牢中华民族共同体意识宣讲团在湖南通道宣讲'  >国家民委铸牢中华民族共同体意识宣讲团...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174719.shtml" target="_blank" title='两岸青年学生文化艺术交流品牌项目“荆楚行·一家亲——中华民族文化研习营”获社会各界好评'  >两岸青年学生文化艺术交流品牌项目“荆...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174734.shtml" target="_blank" title='“典映中华——中国少数民族古籍整理成果展阅区”在广西民族大学正式对外开放'  >“典映中华——中国少数民族古籍整理成...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174657.shtml" target="_blank" title='全国民族古文字“冷门绝学”后备人才培训班在北方民族大学开班'  >全国民族古文字“冷门绝学”后备人才培...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174472.shtml" target="_blank" title='全国民委系统民族统计暨数据分析应用培训班在中南民族大学举办'  >全国民委系统民族统计暨数据分析应用培...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174498.shtml" target="_blank" title='《习近平谈治国理政》第四卷5种民族文字版宣介会举行——让党的创新理论在民族地区落地生根'  >《习近平谈治国理政》第四卷5种民族文字...</a>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xwzx/mwdt/index.shtml" class="more">更多>></a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174898.shtml" target="_blank" title='西南民族大学赴四川省法纪教育基地开展警示教育'  >西南民族大学赴四川省法纪教育基地开展...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174909.shtml" target="_blank" title='民族出版社集中学习习近平总书记相关重要论述'  >民族出版社集中学习习近平总书记相关重...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174991.shtml" target="_blank" title='北方民族大学举行党纪学习教育专题党课'  >北方民族大学举行党纪学习教育专题党课</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174976.shtml" target="_blank" title='中央民族歌舞团“中华民族一家亲”慰问演出团队开启新一轮演出'  >中央民族歌舞团“中华民族一家亲”慰问...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174906.shtml" target="_blank" title='大连民族大学举行师生同上一堂“中华民族共同体概论”课专题报告会'  >大连民族大学举行师生同上一堂“中华民...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174838.shtml" target="_blank" title='民族文化宫传达学习习近平总书记在全国科技大会、国家科学技术奖励大会、两院院士大会上的重要讲话精神'  >民族文化宫传达学习习近平总书记在全国...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174946.shtml" target="_blank" title='西南民族大学党委常委会专题学习党的二十届三中全会精神'  >西南民族大学党委常委会专题学习党的二...</a>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xwzx/wsdt/index.shtml" class="more">更多>></a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1175018.shtml" target="_blank" title='陕西推进旅游促进各民族交往交流交融计划稳步实施'  >陕西推进旅游促进各民族交往交流交融计...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174975.shtml" target="_blank" title='湖北省民族地区铸牢中华民族共同体意识培训班在中央民族干部学院成功举办'  >湖北省民族地区铸牢中华民族共同体意识...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174988.shtml" target="_blank" title='内蒙古自治区党委书记孙绍骋在《中国民族》发表署名文章'  >内蒙古自治区党委书记孙绍骋在《中国民...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174972.shtml" target="_blank" title='广西南宁与云南迪庆签订“三项计划”跨区域协作协议'  >广西南宁与云南迪庆签订“三项计划”跨...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174990.shtml" target="_blank" title='四川印发《四川省铸牢中华民族共同体意识研究基地管理办法》'  >四川印发《四川省铸牢中华民族共同体意...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174889.shtml" target="_blank" title='湖南对外讲好中华民族共同体故事'  >湖南对外讲好中华民族共同体故事</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174932.shtml" target="_blank" title='广西铸牢中华民族共同体意识专题研讨班在百色举办'  >广西铸牢中华民族共同体意识专题研讨班...</a>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xwzx/dfdt/index.shtml" class="more">更多>></a>
+								</div>
+							</div>
+							<div class="w1-3 fl">
+								<div class="w1-2-1">
+									<a target="_blank" href="/seac/xwzx/smwz/index.shtml" class="on">署名文章</a><i></i><a target="_blank" href="/seac/xwzx/mtgz/index.shtml">媒体关注</a><i></i><a target="_blank" href="/seac/xwzx/bsp/index.shtml">白皮书</a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202402/1170953.shtml" target="_blank" title='潘岳在《机关党建研究》发文：强化政治责任 创建模范机关 为铸牢中华民族共同体意识提供坚强保障'  >潘岳在《机关党建研究》发文：强化政治...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202402/1170617.shtml" target="_blank" title='国家民委党组《求是》刊文：以铸牢中华民族共同体意识为主线加强和改进党的民族工作'  >国家民委党组《求是》刊文：以铸牢中华...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202312/1169514.shtml" target="_blank" title='潘岳在《求是》发文：铸牢中华民族共同体意识'  >潘岳在《求是》发文：铸牢中华民族共同...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202312/1169449.shtml" target="_blank" title='潘岳：不断构筑中华民族共有精神家园（深入学习贯彻习近平新时代中国特色社会主义思想）'  >潘岳：不断构筑中华民族共有精神家园（...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202311/1169250.shtml" target="_blank" title='边巴扎西：把铸牢中华民族共同体意识融入委属高校办学治校、教书育人全过程'  >边巴扎西：把铸牢中华民族共同体意识融...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202307/1165843.shtml" target="_blank" title='边巴扎西：坚定不移推进民族地区推广普及国家通用语言文字工作'  >边巴扎西：坚定不移推进民族地区推广普...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202305/1164348.shtml" target="_blank" title='潘岳：中国式现代化与中华民族共同体建设'  >潘岳：中国式现代化与中华民族共同体建...</a>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xwzx/smwz/index.shtml" class="more">更多>></a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174689.shtml" target="_blank" title='【铸牢共同体 中华一家亲】内蒙古构筑中华民族共有精神家园'  >【铸牢共同体 中华一家亲】内蒙古构筑中...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202407/1174661.shtml" target="_blank" title='【人民日报】塞北草原谱新曲（铸牢共同体 中华一家亲）'  >【人民日报】塞北草原谱新曲（铸牢共同...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="https://mp.weixin.qq.com/s/sRojRbiY_s9qvqyJkxDtKg" target="_blank" title='【中国民族报】党的领导是民族工作成功的根本保证'  >【中国民族报】党的领导是民族工作成功...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202406/1174271.shtml" target="_blank" title='【人民日报】2024年中央财政少数民族发展资金74亿元全部下达'  >【人民日报】2024年中央财政少数民族发...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="https://mp.weixin.qq.com/s/pDF62GMWTLen-Di0sqiyJA" target="_blank" title='【 解放军报】寻根“中华民族大家庭”——走进“铸牢中华民族共同体意识文物古籍展”'  >【 解放军报】寻根“中华民族大家庭”—...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202406/1174223.shtml" target="_blank" title='【人民政协报】为铸牢中华民族共同体意识提供坚实法治保障'  >【人民政协报】为铸牢中华民族共同体意...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202406/1174117.shtml" target="_blank" title='【新华社】铸牢共同体 中华一家亲|“铸牢共同体 中华一家亲”主题宣传活动正式启动'  >【新华社】铸牢共同体 中华一家亲|“铸...</a>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xwzx/mtgz/index.shtml" class="more">更多>></a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202311/1168905.shtml" target="_blank" title='新时代党的治藏方略的实践及其历史性成就'  >新时代党的治藏方略的实践及其历史性成...</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202109/1153880.shtml" target="_blank" title='新疆的人口发展'  >新疆的人口发展</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202107/1147889.shtml" target="_blank" title='新疆各民族平等权利的保障'  >新疆各民族平等权利的保障</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/202105/1145433.shtml" target="_blank" title='西藏和平解放与繁荣发展'  >西藏和平解放与繁荣发展</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/201909/1136701.shtml" target="_blank" title='为人民谋幸福：新中国人权事业发展70年'  >为人民谋幸福：新中国人权事业发展70年</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/201907/1134819.shtml" target="_blank" title='新疆的若干历史问题'  >新疆的若干历史问题</a>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xwzx/201903/1132939.shtml" target="_blank" title='伟大的跨越：西藏民主改革60年'  >伟大的跨越：西藏民主改革60年</a>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xwzx/bsp/index.shtml" class="more">更多>></a>
+								</div>
+							</div>
+					</div>
+						</div>				
+						<!--公开 -->
+						<div class="xxgk11">
+							<div class="w1-1">
+						<div class="w1-2">
+							<div class="w1-2-1">
+								<a target="_blank" href="/seac/xxgk/zcjd/index.shtml" class="on">
+									政策解读</a><i></i>
+								<a target="_blank" href="/seac/c103280/xxgk_gzlist.shtml">
+									部门规章</a><i></i>
+								<a target="_blank" href="/seac/xxgk/bmyjs/index.shtml">
+									部门预决算</a><i></i>
+								<a target="_blank" class="pl10" href="/seac/xxgk/jyta/index.shtml">
+									建议提案答复</a>
+							</div>
+							<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202403/1171604.shtml" target="_blank" title='【专家解读】以更“新”的指标体系引导更“优”的创建'  >【专家解读】以更“新”的指标体系引导更“优”的创建</a>
+                                              <span class="date">2024-03-21</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202403/1171603.shtml" target="_blank" title='【专家解读】坚持高标准严要求提升创建工作质效'  >【专家解读】坚持高标准严要求提升创建工作质效</a>
+                                              <span class="date">2024-03-21</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202203/1156809.shtml" target="_blank" title='贯彻落实新的测评指标需要把握几个关键点——国家民委民族团结促进司负责人就新的测评指标答记者问'  >贯彻落实新的测评指标需要把握几个关键点——国家民委...</a>
+                                              <span class="date">2022-03-01</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202111/1154680.shtml" target="_blank" title='【图解】中国公民民族成份登记管理办法'  >【图解】中国公民民族成份登记管理办法</a>
+                                              <span class="date">2021-11-08</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202004/1139986.shtml" target="_blank" title='【专家解读】示范单位如何命名？示范州测评指标有哪些变化？'  >【专家解读】示范单位如何命名？示范州测评指标有哪些...</a>
+                                              <span class="date">2020-04-17</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202004/1139985.shtml" target="_blank" title='中国特色解决民族问题的正确道路是什么？'  >中国特色解决民族问题的正确道路是什么？</a>
+                                              <span class="date">2020-04-17</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/201912/1138931.shtml" target="_blank" title='【政策解读】凝心聚力铸牢中华民族共同体意识——专访国家民委副主任赵勇'  >【政策解读】凝心聚力铸牢中华民族共同体意识——专访...</a>
+                                              <span class="date">2019-12-06</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xxgk/zcjd/index.shtml" class="more">更多>></a>
+							</div>
+							<div class="w1-2-2">
+								<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103280/202111/1154740.shtml" target="_blank" title='民族统计工作管理办法'  >民族统计工作管理办法</a>
+                                              <span class="date">2017-12-28</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103280/202111/1154724.shtml" target="_blank" title='国家民委科研项目管理办法'  >国家民委科研项目管理办法</a>
+                                              <span class="date">2017-04-01</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103280/202111/1154721.shtml" target="_blank" title='中国公民民族成份登记管理办法'  >中国公民民族成份登记管理办法</a>
+                                              <span class="date">2015-06-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103280/202111/1154739.shtml" target="_blank" title='全国民族团结进步教育基地评审命名办法'  >全国民族团结进步教育基地评审命名办法</a>
+                                              <span class="date">2013-09-30</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103280/202111/1154723.shtml" target="_blank" title='国家民委制定规章和规范性文件的规定'  >国家民委制定规章和规范性文件的规定</a>
+                                              <span class="date">2011-08-05</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/c103280/xxgk_gzlist.shtml" class="more">更多>></a>
+							</div>
+							<div class="w1-2-2">
+								<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202407/1174998.shtml" target="_blank" title='2023年度国家民族事务委员会部门决算'  >2023年度国家民族事务委员会部门决算</a>
+                                              <span class="date">2024-07-25</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202405/1172660.shtml" target="_blank" title='国家民委离退休干部局 2024 年预算公开'  >国家民委离退休干部局 2024 年预算公开</a>
+                                              <span class="date">2024-05-06</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202404/1172631.shtml" target="_blank" title='国家民委机关服务中心2024 年部门预算'  >国家民委机关服务中心2024 年部门预算</a>
+                                              <span class="date">2024-04-30</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202404/1172567.shtml" target="_blank" title='国家民委机关本级2024年部门预算公开'  >国家民委机关本级2024年部门预算公开</a>
+                                              <span class="date">2024-04-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202404/1172565.shtml" target="_blank" title='舆情中心2024年部门预算公开'  >舆情中心2024年部门预算公开</a>
+                                              <span class="date">2024-04-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202403/1171700.shtml" target="_blank" title='信息发布：国家民族事务委员会2024年度部门预算'  >信息发布：国家民族事务委员会2024年度部门预算</a>
+                                              <span class="date">2024-03-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202309/1167786.shtml" target="_blank" title='委属预算单位部门决算公开之二十 机关服务局2022年度部门决算公开'  >委属预算单位部门决算公开之二十 机关服务局2022年度部...</a>
+                                              <span class="date">2023-09-14</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xxgk/bmyjs/index.shtml" class="more">更多>></a>
+							</div>
+							<div class="w1-2-2">
+								<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202312/1169838.shtml" target="_blank" title='关于政协第十四届全国委员会第一次会议第00957号（文体宣传类064号）提案答复的函'  >关于政协第十四届全国委员会第一次会议第00957号（文体...</a>
+                                              <span class="date">2023-12-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202312/1169837.shtml" target="_blank" title='关于政协第十四届全国委员会第一次会议第00836号（文体宣传类056号）提案答复的函'  >关于政协第十四届全国委员会第一次会议第00836号（文体...</a>
+                                              <span class="date">2023-12-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202312/1169836.shtml" target="_blank" title='对十四届全国人大一次会议第6798号建议的答复'  >对十四届全国人大一次会议第6798号建议的答复</a>
+                                              <span class="date">2023-12-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202312/1169835.shtml" target="_blank" title='对十四届全国人大一次会议第2728号建议的答复'  >对十四届全国人大一次会议第2728号建议的答复</a>
+                                              <span class="date">2023-12-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202312/1169833.shtml" target="_blank" title='对十四届全国人大一次会议第0174号建议的答复'  >对十四届全国人大一次会议第0174号建议的答复</a>
+                                              <span class="date">2023-12-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202312/1169832.shtml" target="_blank" title='对十四届全国人大一次会议第1516号建议的答复'  >对十四届全国人大一次会议第1516号建议的答复</a>
+                                              <span class="date">2023-12-29</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/xxgk/202301/1160016.shtml" target="_blank" title='关于政协第十三届全国委员会第五次会议第04426号（文体宣传类367号）提案答复的函'  >关于政协第十三届全国委员会第五次会议第04426号（文体...</a>
+                                              <span class="date">2023-01-10</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/xxgk/jyta/index.shtml" class="more">更多>></a>
+							</div>
+						</div>
+						<div class="w1-5">
+							<div class="w1-6">
+								<ul>
+									<li><i class="z2"></i><a target="_blank" href="https://www.neac.gov.cn/seac/xxgk/200804/1011124.shtml">政府信息公开指南</a></li>
+									<li><i class="z1"></i><a target="_blank" href="https://www.neac.gov.cn/seac/xxgk/200804/1011132.shtml">政府信息公开制度</a></li>
+									<li><i class="z3"></i><a target="_blank" href="https://www.neac.gov.cn/seac/xxgk/index.shtml">法定主动公开内容</a></li>
+									<li><i class="z5"></i><a target="_blank" href="/seac/xxgk/xxgknb/index.shtml">政府信息公开年报</a></li>
+								</ul>
+							</div>
+							
+							<div class="chaxun">
+								<a target="_blank" href="https://www.neac.gov.cn/ysq_webapp/ysq/ysqgk.shtml" style="width:360px;">
+									<i class="z4"></i><span style="color: #015293;">信息公开申请及结果查询</span></a>
+								</li>
+							</div>
+							
+						</div>
+					</div>
+						</div>		
+						<!--互动 -->
+						<div class="hudong">
+							<div class="w1-1">
+						
+						<div style="height: 190px;">
+							<div class="chaxun" style="float: left; width:530px;">
+								<a target="_blank" href="https://www.neac.gov.cn/zrxx/zrxx/xxgk/zrxx.shtml" style="width: 540px; height:190px; line-height:190px;">
+									<i class="z4"></i><span style="color: #015293;font-size:30px;">主任信箱</span></a>
+								</li>
+							</div>
+							
+							<div class="chaxun" style="float: left; width:530px; margin-left: 30px;">
+
+								  <a target="_blank" href="/seac/xxgk/201103/1064750.shtml" style="width: 540px; height:190px; line-height:190px;">
+								  <i class="z4"></i><span style="color: #015293;font-size:30px;">信访须知</span></a>
+	
+							</div>
+						</div>
+						
+						<div style="clear: left; margin-top: 20px; height: 100px;">
+							<a href="mailto:jyxc@neac.gov.cn">
+								<img src="/seac/xhtml/images/public/jianyanxiance.png" style="width: 1100px; height: 100px;" />
+							</a>
+						</div>
+						
+					</div>
+						</div>
+						<!--专题 -->
+						<div class="ztzl1">
+							<div class="zx fl">
+							<a target="_blank" href="/seac/c103243/zymzgzhy1630200643790.shtml" target="_blank"> <img  src="/seac//ztzl202107/1147307/images/9d172eb59d7d412b87d7fab8babc24b5.jpg
+"> </a>
+
+					</div>
+					<div class="zz fl">
+						<div class="wzz">
+							<ul>
+						<li><a target="_blank" href="/seac/c103377/sanjiao.shtml" target="_blank"> <img  src="/seac//ztzl202203/1156818/images/1ecda572ed414036bc9f1f55ce704d30.jpg
+"> </a></li>
+						<li><a target="_blank" href="https://www.neac.gov.cn/seac/c103519/xinshidai.shtml" target="_blank"> <img  src="/seac//ztzl202203/1156816/images/ab6176037fa241b08b63df0e9d781403.png
+"> </a></li>
+						<li><a target="_blank" href="/seac/c103212/jiandang100.shtml" target="_blank"> <img  src="/seac//ztzl201807/1078946/images/7c9470a1950b4a73b9d9f0ef107a0f4b.png
+"> </a></li>
+						<li><a target="_blank" href="https://www.neac.gov.cn/seac/c103055/yunxiang.shtml" target="_blank"> <img  src="/seac//ztzl202203/1156817/images/d707f91aedb54fb7b59a9435017a9164.jpg
+"> </a></li>
+
+								
+							</ul>
+						</div>
+					</div>
+						</div>					
+						<!--资料 -->
+						<div class="zcfg1">
+							<div class="w1-1">
+						<div class="w1-2 fl">
+								<div class="w1-2-1">
+									<a target="_blank" href="/seac/c103544/common_list.shtml" class="on">民族地区经济社会发展统计数据</a><i></i>
+									<a target="_blank" href="/seac/c103545/common_list.shtml">少数民族古籍</a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103544/202210/1159401.shtml" target="_blank" title='克孜勒苏柯尔克孜自治州2021年国 经济和社会发展统计公报'  >克孜勒苏柯尔克孜自治州2021年国 经济和社会发展统计公...</a>
+                                 <span>2022-10-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103544/202210/1159397.shtml" target="_blank" title='巴音郭楞蒙古自治州2021年国民经济和社会发展统计公报'  >巴音郭楞蒙古自治州2021年国民经济和社会发展统计公报</a>
+                                 <span>2022-10-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103544/202210/1159396.shtml" target="_blank" title='昌吉回族自治州2021年国民经济和 社会发展统计公报'  >昌吉回族自治州2021年国民经济和 社会发展统计公报</a>
+                                 <span>2022-10-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103544/202210/1159395.shtml" target="_blank" title='2021 年海南州国民经济和社会发展统计公报'  >2021 年海南州国民经济和社会发展统计公报</a>
+                                 <span>2022-10-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103544/202210/1159390.shtml" target="_blank" title='海北藏族自治州2021年国民经济和社会发展统计公报'  >海北藏族自治州2021年国民经济和社会发展统计公报</a>
+                                 <span>2022-10-26</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/c103544/common_list.shtml" class="more">更多>></a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103545/202105/1145490.shtml" target="_blank" title='明万历《均平水利碑记》简介'  >明万历《均平水利碑记》简介</a>
+                                              <span>2021-05-28</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103545/202105/1145489.shtml" target="_blank" title='清光绪《绥远城将军衙署札文》简介'  >清光绪《绥远城将军衙署札文》简介</a>
+                                              <span>2021-05-28</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103545/202105/1145487.shtml" target="_blank" title='清光绪《伊克昭盟盟长察克都尔色楞呈文》简介'  >清光绪《伊克昭盟盟长察克都尔色楞呈文》简介</a>
+                                              <span>2021-05-28</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103545/202105/1145293.shtml" target="_blank" title='清康熙《溥仁寺碑》简介'  >清康熙《溥仁寺碑》简介</a>
+                                              <span>2021-05-11</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103545/202103/1144715.shtml" target="_blank" title='清嘉庆《滇海虞衡志》简介'  >清嘉庆《滇海虞衡志》简介</a>
+                                              <span>2021-03-29</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/c103545/common_list.shtml" class="more">更多>></a>
+								</div>
+							</div>
+							<div class="w1-3 fl">
+								<div class="w1-2-1">
+									<a target="_blank" href="/seac/c103547/common_list.shtml" class="on">民族团结进步教育基地</a><i></i>
+									<a target="_blank" href="/seac/c103548/common_list.shtml">民族团结进步创建示范单位</a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103547/202111/1155253.shtml" target="_blank" title='走进教育基地丨青海原子城：不畏艰难 无私奉献'  >走进教育基地丨青海原子城：不畏艰难 无私奉献</a>
+                                              <span>2021-11-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103547/202111/1155252.shtml" target="_blank" title='走进教育基地丨宁夏六盘山红军纪念馆：长征精神永放光芒'  >走进教育基地丨宁夏六盘山红军纪念馆：长征精神永放光...</a>
+                                              <span>2021-11-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103547/202108/1152202.shtml" target="_blank" title='走进教育基地丨红军飞夺泸定桥纪念馆：记载征服一切困难的革命精神'  >走进教育基地丨红军飞夺泸定桥纪念馆：记载征服一切困...</a>
+                                              <span>2021-08-27</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103547/202107/1148547.shtml" target="_blank" title='走进教育基地丨三五九旅屯垦纪念馆：生动再现屯垦戍边历史'  >走进教育基地丨三五九旅屯垦纪念馆：生动再现屯垦戍边...</a>
+                                              <span>2021-07-30</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103547/202107/1148546.shtml" target="_blank" title='走进教育基地丨这块誓词碑，是各族人民心向党的见证'  >走进教育基地丨这块誓词碑，是各族人民心向党的见证</a>
+                                              <span>2021-07-30</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/c103547/common_list.shtml" class="more">更多>></a>
+								</div>
+								<div class="w1-2-2">
+									<ul>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103548/202204/1157314.shtml" target="_blank" title='他们，被壮乡群众赞为暖心“好贝侬”'  >他们，被壮乡群众赞为暖心“好贝侬”</a>
+                                              <span>2022-04-26</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103548/202203/1157134.shtml" target="_blank" title='共建中华民族共有精神家园——第九批全国民族团结进步示范社区广西柳州市鱼峰区大龙潭社区'  >共建中华民族共有精神家园——第九批全国民族团结进步...</a>
+                                              <span>2022-03-31</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103548/202203/1157131.shtml" target="_blank" title='同心浇灌民族团结之花——吴忠市民族团结进步工作综述'  >同心浇灌民族团结之花——吴忠市民族团结进步工作综述</a>
+                                              <span>2022-03-31</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103548/202203/1157081.shtml" target="_blank" title='云南丽江成功创建全国民族团结进步示范市'  >云南丽江成功创建全国民族团结进步示范市</a>
+                                              <span>2022-03-28</span>
+											</li>
+
+											<li>
+												<i></i>
+												<a href="/seac/c103548/202203/1157080.shtml" target="_blank" title='云南迪庆州民族中学：“五抓”做好民族团结进步教育工作'  >云南迪庆州民族中学：“五抓”做好民族团结进步教育工...</a>
+                                              <span>2022-03-28</span>
+											</li>
+
+									</ul>
+									<a target="_blank" href="/seac/c103548/common_list.shtml" class="more">更多>></a>
+								</div>
+							</div>
+							
+						<div class="clear"></div>
+						
+						<div class="ziliaolink"><a target="_blank" href="/seac/ztzl/zgmzjs/index.shtml">中华各民族</a></div>
+						<div class="ziliaolink"><a target="_blank" href="/seac/ztzl/mzzzdf/index.shtml">民族自治地方</a></div>
+						<div class="ziliaolink"><a target="_blank" href="https://flk.npc.gov.cn/index.html">国家法律法规数据库</a></div>
+					
+							
+						</div>
+						</div>
+					</div>
+				</div>
+				</div>
+				
+				</div>
+		  		
+		  </div>
+
+		<div class="w1150 bgfff" style="padding: 20px; border-top: 2px #015293 solid; box-shadow: 10px 15px 25px #cccccc, -10px 15px 25px #cccccc;">
+
+			<div class="common1 mt10">
+
+				<div class="fl w675">
+					<div class="slider-carousel">
+						 
+							<div class="item" style="display:block">
+								<div class="pannel-image">
+									<a target="_blank" href="/seac/xwzx/202407/1174865.shtml" title="国家民委党组召开理论学习中心组学习（扩大）会专题学习二十届三中全会精神">
+										<img style="opacity: 1;" src="/seac//xwzx202407/1174865/images/63fe004573ad4343b62e0a0db00b6832.jpg
+">
+									</a>
+								</div>
+								<div class="titBg">&#160;</div>
+								<div class="subtitle">
+									<a href="/seac/xwzx/202407/1174865.shtml" target="_blank"  >国家民委党组召开理论学习中心组学习（扩大）会专题学习二十届三中全会精神</a>
+								</div>
+							</div>
+							
+
+						 
+							<div class="item" style="display:none">
+								<div class="pannel-image">
+									<a target="_blank" href="/seac/xwzx/202407/1174813.shtml" title="中华民族共同体体验馆2024年第三期中华优秀文化体验项目开展">
+										<img style="opacity: 1;" src="/seac//xwzx202407/1174813/images/106afdbada7e47b0ad7377b22bc87c6a.jpg
+">
+									</a>
+								</div>
+								<div class="titBg">&#160;</div>
+								<div class="subtitle">
+									<a href="/seac/xwzx/202407/1174813.shtml" target="_blank"  >中华民族共同体体验馆2024年第三期中华优秀文化体验项目开展</a>
+								</div>
+							</div>
+							
+							<div class="item" style="display:none">
+								<div class="pannel-image">
+									<a target="_blank" href="/seac/xwzx/202407/1174690.shtml" title="郭卫平会见尼加拉瓜总统投资、贸易和国际合作顾问、对华合作牵头人劳雷亚诺">
+										<img style="opacity: 1;" src="/seac//xwzx202407/1174690/images/eb019fb0db9648d9b2b43b52b8448a21.jpg
+">
+									</a>
+								</div>
+								<div class="titBg">&#160;</div>
+								<div class="subtitle">
+									<a href="/seac/xwzx/202407/1174690.shtml" target="_blank"  >郭卫平会见尼加拉瓜总统投资、贸易和国际合作顾问、对华合作牵头人劳雷亚诺</a>
+								</div>
+							</div>
+							
+							<div class="item" style="display:none">
+								<div class="pannel-image">
+									<a target="_blank" href="/seac/xwzx/202407/1174548.shtml" title="第十二届全国少数民族传统体育运动会马上项目在新疆昭苏开赛">
+										<img style="opacity: 1;" src="/seac//xwzx202407/1174548/images/f42ff712ccad4074aa488f84214952fc.jpg
+">
+									</a>
+								</div>
+								<div class="titBg">&#160;</div>
+								<div class="subtitle">
+									<a href="/seac/xwzx/202407/1174548.shtml" target="_blank"  >第十二届全国少数民族传统体育运动会马上项目在新疆昭苏开赛</a>
+								</div>
+							</div>
+							
+							<div class="item" style="display:none">
+								<div class="pannel-image">
+									<a target="_blank" href="/seac/xwzx/202407/1174344.shtml" title="国家民委举行“七一”表彰大会暨党组书记讲党课">
+										<img style="opacity: 1;" src="/seac//xwzx202407/1174344/images/6cb2a88670fa42ac8d73832409fb7fb5.jpg
+">
+									</a>
+								</div>
+								<div class="titBg">&#160;</div>
+								<div class="subtitle">
+									<a href="/seac/xwzx/202407/1174344.shtml" target="_blank"  >国家民委举行“七一”表彰大会暨党组书记讲党课</a>
+								</div>
+							</div>
+							
+
+					</div>
+				</div>
+				<div class="fr w394 tab-content gwymw">
+
+					<div class="channel_tit2 title sjyc">
+						<a target="_blank" href="/seac/c103368/common_list.shtml">
+							时政要闻
+						</a>
+						<a target="_blank" href="/seac/xwzx/mwyw/index.shtml" class="active">
+							民委要闻
+						</a>
+					</div>
+					<div class="channel_tit2 title sjxs">
+						<li>时政要闻</li>
+						<li class="active">
+							民委要闻
+						</li>
+					</div>
+					<div class="tab-pane tab shizhengyaowen">
+
+						 
+
+							<li>
+								<a href="http://www.news.cn/politics/leaders/20240724/5bbf2b9e07744a11b62d4e6cbedb0fa1/c.html" target="_blank" title='习近平给厦门航空有限公司全体员工回信'  >习近平给厦门航空有限公司全体员工回信</a>
+								<span>2024-07-25</span>
+							</li>
+
+							<li>
+								<a href="http://www.news.cn/politics/leaders/20240721/ded6316ad77344cf9a2a45463ec1288b/c.html" target="_blank" title='受权发布丨习近平：关于《中共中央关于进一步全面深化改革、推进中国式现代化的决定》的说明'  >受权发布丨习近平：关于《中共中央关于进一步全面深化...</a>
+								<span>2024-07-22</span>
+							</li>
+
+
+						<script language="javascript" type="text/javascript" src="https://www.gov.cn/pushinfo/v150203/pushinfo.js"></script>
+						<a target="_blank" href="https://www.gov.cn/xinwen/yaowen.htm" class="more" target="_blank">更多>></a>
+						<a target="_blank" href="https://www.gov.cn/xinwen/yaowen.htm" class="moresj" target="_blank">查看更多>></a>
+					</div>
+					<div class="tab-pane on tab">
+						<ul class="mwyw">
+							 
+
+								<li>
+									<a href="/seac/xwzx/202407/1174865.shtml" target="_blank" title='国家民委党组召开理论学习中心组学习（扩大）会专题学习二十届三中全会精神'  >国家民委党组召开理论学习中心组学习（扩大）会专题学...</a>
+									<span>07-19</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202407/1174813.shtml" target="_blank" title='中华民族共同体体验馆2024年第三期中华优秀文化体验项目开展'  >中华民族共同体体验馆2024年第三期中华优秀文化体验项...</a>
+									<span>07-18</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202407/1174690.shtml" target="_blank" title='郭卫平会见尼加拉瓜总统投资、贸易和国际合作顾问、对华合作牵头人劳雷亚诺'  >郭卫平会见尼加拉瓜总统投资、贸易和国际合作顾问、对...</a>
+									<span>07-13</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202407/1174570.shtml" target="_blank" title='第十二届全国少数民族传统体育运动会马上项目在昭苏开赛'  >第十二届全国少数民族传统体育运动会马上项目在昭苏开...</a>
+									<span>07-09</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202407/1174548.shtml" target="_blank" title='第十二届全国少数民族传统体育运动会马上项目在新疆昭苏开赛'  >第十二届全国少数民族传统体育运动会马上项目在新疆昭...</a>
+									<span>07-08</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202407/1174344.shtml" target="_blank" title='国家民委举行“七一”表彰大会暨党组书记讲党课'  >国家民委举行“七一”表彰大会暨党组书记讲党课</a>
+									<span>07-01</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202407/1174326.shtml" target="_blank" title='郭卫平在贵州省调研并出席民族团结“村BA”篮球邀请赛'  >郭卫平在贵州省调研并出席民族团结“村BA”篮球邀请赛</a>
+									<span>07-01</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202406/1174272.shtml" target="_blank" title='边巴扎西率团访问越南'  >边巴扎西率团访问越南</a>
+									<span>06-29</span>
+								</li>
+
+								<li>
+									<a href="/seac/xwzx/202406/1174222.shtml" target="_blank" title='“铸牢共同体 中华一家亲”主题宣传活动启动仪式'  >“铸牢共同体 中华一家亲”主题宣传活动启动仪式</a>
+									<span>06-27</span>
+								</li>
+
+						</ul>
+						<a target="_blank" href="/seac/xwzx/mwyw/index.shtml" class="more">更多>></a>
+						<a target="_blank" href="/seac/xwzx/mwyw/index.shtml" class="moresj">查看更多>></a>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="common1 mt15">
+					<div class="picScroll-left">
+						<div class="bd">
+							<ul class="picList">
+									<li>
+										<div class="pic">
+											<img src="https://www.neac.gov.cn/seac/xhtml/images/public/sigeyugong.png" />
+										</div>
+									</li>								
+								 
+									<li>
+										<div class="pic">
+											<a target="_blank" href="/seac/c103611/wenwugujizhan.shtml" title="专题：铸牢中华民族共同体意识文物古籍展" target="_blank">
+												<img style="opacity: 1;" src="/seac/c103540/202308/1167158/images/5b771e6deba145a986cd1c3d98d59a56.jpg
+"></a>
+										</div>
+									</li>
+
+							</ul>
+						</div>
+					</div>
+			</div>	
+
+			<div class="common2">
+				<div class="fl w675">
+					<!-- 动态 -->
+					<div class="tab-content zcwzsj tab">
+						<div class="channel_tit2 title sjyc">
+							<a target="_blank" href="/seac/xwzx/mwdt/index.shtml" class="active">
+								民委动态
+							</a><span>|</span>
+							<a target="_blank" href="/seac/c103530/common_list.shtml">
+								党建动态
+							</a><span>|</span>
+							<a target="_blank" href="/seac/xwzx/wsdt/index.shtml">
+								委属动态
+							</a><span>|</span>
+							<a target="_blank" href="/seac/xwzx/dfdt/index.shtml">
+								地方动态
+							</a>
+						</div>
+						<div class="channel_tit2 title sjxs">
+							<li class="active">民委动态</li><span>|</span>
+							<li>党建动态</li><span>|</span>
+							<li>委属动态</li><span>|</span>
+							<li>地方动态</li>
+						</div>
+
+						<div class="tab-pane on">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202407/1174957.shtml" target="_blank"  >驻华外交官参观“铸牢中华民族共同体意识文物古籍展”</a><span>2024-07-23</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174933.shtml" target="_blank"  >国家民委铸牢中华民族共同体意识宣讲团在湖南通道宣讲</a><span>2024-07-22</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174719.shtml" target="_blank"  >两岸青年学生文化艺术交流品牌项目“荆楚行·一家亲——中华民族文化研习营”获社会各界好评</a><span>2024-07-17</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174734.shtml" target="_blank"  >“典映中华——中国少数民族古籍整理成果展阅区”在广西民族大学正式对外开放</a><span>2024-07-16</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174657.shtml" target="_blank"  >全国民族古文字“冷门绝学”后备人才培训班在北方民族大学开班</a><span>2024-07-11</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174472.shtml" target="_blank"  >全国民委系统民族统计暨数据分析应用培训班在中南民族大学举办</a><span>2024-07-11</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xwzx/mwdt/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xwzx/mwdt/index.shtml" class="moresj">查看更多>></a>
+						</div>
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/c103530/202407/1174999.shtml" target="_blank"  >国家民委直属机关纪委制作发布《民族工作领域违反党纪处分条例相关条款行为表现漫画》</a><span>2024-07-25</span></li>
+									
+									<li>
+										<a href="/seac/c103530/202407/1174635.shtml" target="_blank"  >国家民委机关工会组织参观“礼赞新中国  奋进新时代”中央和国家机关庆祝新中国成立75周年书画摄影展</a><span>2024-07-11</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174344.shtml" target="_blank"  >国家民委举行“七一”表彰大会暨党组书记讲党课</a><span>2024-07-01</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202405/1173480.shtml" target="_blank"  >国家民委召开警示教育大会</a><span>2024-05-30</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202405/1173134.shtml" target="_blank"  >国家民委召开党纪学习教育交流推进会</a><span>2024-05-20</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202405/1173070.shtml" target="_blank"  >深学活用《中华民族共同体概论》第十二届国家民委青年读书演讲活动展示会在京举办</a><span>2024-05-17</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/c103530/common_list.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/c103530/common_list.shtml" class="moresj">查看更多>></a>
+						</div>						
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202407/1174898.shtml" target="_blank"  >西南民族大学赴四川省法纪教育基地开展警示教育</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174909.shtml" target="_blank"  >民族出版社集中学习习近平总书记相关重要论述</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174991.shtml" target="_blank"  >北方民族大学举行党纪学习教育专题党课</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174976.shtml" target="_blank"  >中央民族歌舞团“中华民族一家亲”慰问演出团队开启新一轮演出</a><span>2024-07-25</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174906.shtml" target="_blank"  >大连民族大学举行师生同上一堂“中华民族共同体概论”课专题报告会</a><span>2024-07-25</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174838.shtml" target="_blank"  >民族文化宫传达学习习近平总书记在全国科技大会、国家科学技术奖励大会、两院院士大会上的重要讲话精神</a><span>2024-07-25</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xwzx/wsdt/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xwzx/wsdt/index.shtml" class="moresj">查看更多>></a>
+						</div>
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202407/1175018.shtml" target="_blank"  >陕西推进旅游促进各民族交往交流交融计划稳步实施</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174975.shtml" target="_blank"  >湖北省民族地区铸牢中华民族共同体意识培训班在中央民族干部学院成功举办</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174988.shtml" target="_blank"  >内蒙古自治区党委书记孙绍骋在《中国民族》发表署名文章</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174972.shtml" target="_blank"  >广西南宁与云南迪庆签订“三项计划”跨区域协作协议</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174990.shtml" target="_blank"  >四川印发《四川省铸牢中华民族共同体意识研究基地管理办法》</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174889.shtml" target="_blank"  >湖南对外讲好中华民族共同体故事</a><span>2024-07-25</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xwzx/dfdt/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xwzx/dfdt/index.shtml" class="moresj">查看更多>></a>
+						</div>
+					</div>
+					
+					<!-- 团结 -->
+					<div class="tab-content zcwzsj tab">
+						<div class="channel_tit2 title sjyc">
+							<a target="_blank" href="/seac/c103533/common_list.shtml" class="active">
+								民族团结
+							</a><span>|</span>
+							<a target="_blank" href="/seac/c103534/common_list.shtml">
+								共同发展
+							</a><span>|</span>
+							<a target="_blank" href="/seac/c103377/sanjiao.shtml">交往交流交融</a><span>|</span>
+							<a target="_blank" href="/seac/c103536/common_list.shtml">
+								民族文化
+							</a>
+						</div>
+						<div class="channel_tit2 title sjxs">
+							<li class="active">民族团结</li><span>|</span>
+							<li>共同发展</li><span>|</span>
+							<li>交往交流交融</li><span>|</span>
+							<li>民族文化</li>
+						</div>
+						<div class="tab-pane on">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202406/1173528.shtml" target="_blank"  >浙江多措并举打造民族团结进步创建“升级版”</a><span>2024-06-17</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202406/1173558.shtml" target="_blank"  >新疆维吾尔自治区人大常委会第十一次会议举行联组会议就民族团结进步工作进行专题询问</a><span>2024-06-05</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202405/1173314.shtml" target="_blank"  >新疆民族团结纪事的时代价值与世界意义——《石榴花开》出版座谈会在京召开</a><span>2024-05-28</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202405/1172806.shtml" target="_blank"  >云南红河夯实“五个基础”打造民族团结进步创建“升级版”</a><span>2024-05-13</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202405/1172760.shtml" target="_blank"  >黑吉蒙三省五地市签订跨区域促进民族团结进步协作交流框架协议</a><span>2024-05-09</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202404/1172477.shtml" target="_blank"  >内蒙古“三项举措”助推民族团结进步创建能力提升</a><span>2024-04-30</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/c103533/common_list.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/c103533/common_list.shtml" class="moresj">查看更多>></a>
+						</div>
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202407/1174800.shtml" target="_blank"  >中南民族大学与江西乐安县会商对口支援工作</a><span>2024-07-23</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174659.shtml" target="_blank"  >中南民族大学赴广西德保推进定点帮扶工作</a><span>2024-07-16</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174486.shtml" target="_blank"  >云南现代化边境幸福村巩固提升推进会议在勐海县召开</a><span>2024-07-10</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174462.shtml" target="_blank"  >广西召开备战第十二届全国少数民族传统体育运动会推进会</a><span>2024-07-09</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174441.shtml" target="_blank"  >河南体育系统全力做好对口援疆工作</a><span>2024-07-05</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174377.shtml" target="_blank"  >新疆巴音郭楞州 内蒙古阿拉善盟 广西柳州市达成铸牢中华民族共同体意识战略合作</a><span>2024-07-04</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/c103534/common_list.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/c103534/common_list.shtml" class="moresj">查看更多>></a>
+						</div>						
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202407/1174972.shtml" target="_blank"  >广西南宁与云南迪庆签订“三项计划”跨区域协作协议</a><span>2024-07-26</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174878.shtml" target="_blank"  >云南持续拓展各民族交往交流交融的广度和深度</a><span>2024-07-25</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174828.shtml" target="_blank"  >“京蒙手拉手 中华一家亲”各族青少年暑期实践交流营活动在北京举行</a><span>2024-07-23</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174846.shtml" target="_blank"  >河南召开全省旅游促进各民族交往交流交融计划现场交流会</a><span>2024-07-22</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174725.shtml" target="_blank"  >西藏拉萨与陕西西安签署《旅游促进各民族交往交流交融共建合作框架协议》</a><span>2024-07-17</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174724.shtml" target="_blank"  >江苏·新疆“苏韵伊情·圆融同心”红石榴夏令营在江苏苏州开营</a><span>2024-07-17</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/c103378/list_article1667356026470.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/c103378/list_article1667356026470.shtml" class="moresj">查看更多>></a>
+						</div>
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202407/1174877.shtml" target="_blank"  >云南加强参加第十二届全国少数民族传统体育运动会项目选拔优化和训练提升工作</a><span>2024-07-23</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174737.shtml" target="_blank"  >云南省民族古籍办公室积极推进古籍资源数字化工作</a><span>2024-07-18</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174734.shtml" target="_blank"  >“典映中华——中国少数民族古籍整理成果展阅区”在广西民族大学正式对外开放</a><span>2024-07-16</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174712.shtml" target="_blank"  >青海省第八届拉伊演唱大赛在海北州举办</a><span>2024-07-16</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174613.shtml" target="_blank"  >青海“铸牢中华民族共同体意识”文学笔会在西宁开幕</a><span>2024-07-12</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174657.shtml" target="_blank"  >全国民族古文字“冷门绝学”后备人才培训班在北方民族大学开班</a><span>2024-07-11</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/c103536/common_list.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/c103536/common_list.shtml" class="moresj">查看更多>></a>
+						</div>
+					</div>
+					
+
+					<!-- 公告 -->
+					<div class="tab-content tzrstj tab mt15">
+						<div class="channel_tit2 title sjyc">
+							<a target="_blank" href="/seac/xxgk/tzgg/index.shtml" class="active">
+								公告公示
+							</a><span>|</span>
+							<a target="_blank" href="/seac/xxgk/gwykl/index.shtml">
+								公务员考录
+							</a><span>|</span>
+							<a target="_blank" href="/seac/xxgk/gkzp/index.shtml">
+								公开招聘
+							</a>
+						</div>
+						<div class="channel_tit2 title sjxs">
+							<li class="active">公告公示</li><span>|</span>
+							<li>公务员考录</li><span>|</span>
+							<li>公开招聘</li>
+						</div>
+						<div class="tab-pane on">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xxgk/202407/1174998.shtml" target="_blank"  >2023年度国家民族事务委员会部门决算</a><span>2024-07-25</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202406/1174224.shtml" target="_blank"  >国家民委政府网站和微信公众号2024年第二季度检查情况公告</a><span>2024-06-27</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202406/1174107.shtml" target="_blank"  >国家民委2024年享受政府特殊津贴人员拟推荐人选公示公告</a><span>2024-06-24</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202404/1171942.shtml" target="_blank"  >国家民委办公厅关于申报国家民委民族研究项目2024年度课题的通知</a><span>2024-04-03</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202404/1171863.shtml" target="_blank"  >关于民族研究项目2024年第2批课题结项的公示</a><span>2024-04-02</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202403/1171835.shtml" target="_blank"  >国家民委2023年法治政府建设工作报告</a><span>2024-03-31</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xxgk/tzgg/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xxgk/tzgg/index.shtml" class="moresj">查看更多>></a>
+						</div>
+
+
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xxgk/202404/1172512.shtml" target="_blank"  >国家民族事务委员会2024年度公开遴选公务员拟任职人员公示公告</a><span>2024-04-27</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202404/1172510.shtml" target="_blank"  >国家民族事务委员会2024年度拟录用公务员公示公告</a><span>2024-04-27</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202403/1171576.shtml" target="_blank"  >国家民族事务委员会2024年度考试录用公务员面试递补公告（二）</a><span>2024-03-19</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202403/1171464.shtml" target="_blank"  >国家民族事务委员会2024年度考试录用公务员面试递补公告</a><span>2024-03-13</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202403/1171458.shtml" target="_blank"  >国家民族事务委员会2024年度公开遴选公务员面试递补公告</a><span>2024-03-13</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202402/1170769.shtml" target="_blank"  >国家民族事务委员会2024年度公开遴选公务员面试公告</a><span>2024-02-08</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xxgk/gwykl/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xxgk/gwykl/index.shtml" class="moresj">查看更多>></a>
+						</div>
+
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xxgk/202407/1174859.shtml" target="_blank"  >中国民族语文翻译中心（局）2024年公开招聘公告</a><span>2024-07-19</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202407/1174857.shtml" target="_blank"  >民族团结杂志社2024年面向应届毕业生和社会人员公开招聘公告</a><span>2024-07-19</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202407/1174620.shtml" target="_blank"  >中央民族大学2024年拟引进高层次人才公示（第一批）</a><span>2024-07-11</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202407/1174568.shtml" target="_blank"  >中南民族大学2024年专职辅导员、实验员岗位公开招聘公告</a><span>2024-07-09</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202407/1174480.shtml" target="_blank"  >国家民委直属事业单位民族出版社部分处级领导岗位公开招聘公告</a><span>2024-07-07</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202406/1174175.shtml" target="_blank"  >中央民族干部学院2024年面向社会公开招聘公告</a><span>2024-06-26</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xxgk/gkzp/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xxgk/gkzp/index.shtml" class="moresj">查看更多>></a>
+						</div>
+
+					</div>
+					
+					
+					<!-- 政策 -->
+					<div class="tab-content zcwzsj tab">
+						<div class="channel_tit2 title sjyc">
+							<a target="_blank" href="/seac/xxgk/zcfb/index.shtml" class="active">
+								政策文件
+							</a><span>|</span>
+							<a target="_blank" href="/seac/xxgk/zcjd/index.shtml">
+								政策解读
+							</a><span>|</span>
+							<a target="_blank" href="/seac/xwzx/smwz/index.shtml">
+								署名文章
+							</a>
+						</div>
+						<div class="channel_tit2 title sjxs">
+							<li class="active">政策文件</li><span>|</span>
+							<li>政策解读</li><span>|</span>
+							<li>署名文章</li>
+						</div>
+						<div class="tab-pane on">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xxgk/202407/1174477.shtml" target="_blank"  >国家民委  国家文物局关于做好第四次全国文物普查工作的通知</a><span>2024-07-05</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202404/1172234.shtml" target="_blank"  >国家民委2024年规章制定工作计划</a><span>2024-04-18</span></li>
+									
+									<li>
+										<a href="/seac/c103593/202404/1172232.shtml" target="_blank"  >国家民委关于废止部分规范性文件的通知</a><span>2024-04-18</span></li>
+									
+									<li>
+										<a href="/seac/c103593/202401/1170607.shtml" target="_blank"  >国家民委关于印发《全国民族团结进步示范区示范单位创建命名管理办法》的通知</a><span>2024-01-31</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202401/1170354.shtml" target="_blank"  >国家民委关于命名第十一批全国民族团结进步示范区示范单位的决定</a><span>2024-01-23</span></li>
+									
+									<li>
+										<a href="/seac/c103601/202301/1160268.shtml" target="_blank"  >国家民委关于命名第十批全国民族团结进步示范区示范单位的决定</a><span>2023-01-17</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xxgk/zcfb/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xxgk/zcfb/index.shtml" class="moresj">查看更多>></a>
+						</div>
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xxgk/202403/1171604.shtml" target="_blank"  >【专家解读】以更“新”的指标体系引导更“优”的创建</a><span>2024-03-21</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202403/1171603.shtml" target="_blank"  >【专家解读】坚持高标准严要求提升创建工作质效</a><span>2024-03-21</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202203/1156809.shtml" target="_blank"  >贯彻落实新的测评指标需要把握几个关键点——国家民委民族团结促进司负责人就新的测评指标答记者问</a><span>2022-03-01</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202111/1154680.shtml" target="_blank"  >【图解】中国公民民族成份登记管理办法</a><span>2021-11-08</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202004/1139986.shtml" target="_blank"  >【专家解读】示范单位如何命名？示范州测评指标有哪些变化？</a><span>2020-04-17</span></li>
+									
+									<li>
+										<a href="/seac/xxgk/202004/1139985.shtml" target="_blank"  >中国特色解决民族问题的正确道路是什么？</a><span>2020-04-17</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xxgk/zcjd/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xxgk/zcjd/index.shtml" class="moresj">查看更多>></a>
+						</div>						
+						<div class="tab-pane">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202402/1170953.shtml" target="_blank"  >潘岳在《机关党建研究》发文：强化政治责任 创建模范机关 为铸牢中华民族共同体意识提供坚强保障</a><span>2024-02-29</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202402/1170617.shtml" target="_blank"  >国家民委党组《求是》刊文：以铸牢中华民族共同体意识为主线加强和改进党的民族工作</a><span>2024-02-01</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202312/1169514.shtml" target="_blank"  >潘岳在《求是》发文：铸牢中华民族共同体意识</a><span>2023-12-16</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202312/1169449.shtml" target="_blank"  >潘岳：不断构筑中华民族共有精神家园（深入学习贯彻习近平新时代中国特色社会主义思想）</a><span>2023-12-13</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202311/1169250.shtml" target="_blank"  >边巴扎西：把铸牢中华民族共同体意识融入委属高校办学治校、教书育人全过程</a><span>2023-11-29</span></li>
+									
+									<li>
+										<a href="/seac/xwzx/202307/1165843.shtml" target="_blank"  >边巴扎西：坚定不移推进民族地区推广普及国家通用语言文字工作</a><span>2023-07-04</span></li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xwzx/smwz/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xwzx/smwz/index.shtml" class="moresj">查看更多>></a>
+						</div>
+					</div>
+
+
+					<!-- 视频展播 -->
+					<div class="tab-content zcwzsj tab">
+						<div class="channel_tit2 title">
+							<a target="_blank" href="/seac/mztj/spzb/index.shtml" class="active">视频展播</a>
+						</div>
+						<div class="typez">
+
+							<div class="picScroll-left3 mt22">
+								<div class="hd">
+									<a target="_blank" class="next"></a>
+									<a target="_blank" class="prev"></a>
+								</div>
+								<div class="bd">
+									<ul class="picList">
+										 
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103113/202308/1166602.shtml" title="视频：100秒带您看展，纵览中华民族共同体形成发展的历史长卷">
+														<img src="/seac/c103113/202308/1166602/images/ba2fcd1789674d9b8fae8706e5af5b6b.jpg
+" alt="100秒带您看展，纵览中华民族共同体形成..." />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103113/202308/1166602.shtml" >
+												<a href="/seac/c103113/202308/1166602.shtml" target="_blank"  >100秒带您看展，纵览中华民族共同体形成发展的历史长卷</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103648/202401/1170138.shtml" title="视频：重磅宣传片｜我们是一家人">
+														<img src="/seac/c103648/202401/1170138/images/3748b27dfc4e4d049124d1ae32b85845.jpg
+" alt="重磅宣传片｜我们是一家人" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103648/202401/1170138.shtml" >
+												<a href="/seac/c103648/202401/1170138.shtml" target="_blank"  >重磅宣传片｜我们是一家人</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103113/202108/1152259.shtml" title="视频：同心共筑中国梦<br>——第四集《携手圆梦》">
+														<img src="/seac/c103113/202108/1152259/images/649102ee533c42d586500efd7978c72d.png
+" alt="同心共筑中国梦——第四集《携手圆梦》" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103113/202108/1152259.shtml" >
+												<a href="/seac/c103113/202108/1152259.shtml" target="_blank"  >同心共筑中国梦<br>——第四集《携手圆梦》</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103113/202108/1152127.shtml" title="视频：同心共筑中国梦<br>——第三集《手足相亲》">
+														<img src="/seac/c103113/202108/1152127/images/93a3a97677af4dd4816afb244f6af12b.png
+" alt="同心共筑中国梦——第三集《手足相亲》" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103113/202108/1152127.shtml" >
+												<a href="/seac/c103113/202108/1152127.shtml" target="_blank"  >同心共筑中国梦<br>——第三集《手足相亲》</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103113/202108/1151895.shtml" title="视频：同心共筑中国梦<br>——第二集《共同繁荣》">
+														<img src="/seac/c103113/202108/1151895/images/4652fb7269ca47db844457be5cdbc648.png
+" alt="同心共筑中国梦——第二集《共同繁荣》" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103113/202108/1151895.shtml" >
+												<a href="/seac/c103113/202108/1151895.shtml" target="_blank"  >同心共筑中国梦<br>——第二集《共同繁荣》</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103113/202108/1151830.shtml" title="视频：同心共筑中国梦<br>——第一集《辉煌历程》">
+														<img src="/seac/c103113/202108/1151830/images/b7cd8180827644868ba60cad89f2772b.png
+" alt="同心共筑中国梦——第一集《辉煌历程》" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103113/202108/1151830.shtml" >
+												<a href="/seac/c103113/202108/1151830.shtml" target="_blank"  >同心共筑中国梦<br>——第一集《辉煌历程》</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c102859/201909/1136764.shtml" title="视频：来自56个民族的心灵诉说">
+														<img src="/seac/c103113/202103/1144673/images/c97f5be055f2413a886d725154c5cb75.jpg
+" alt="来自56个民族的心灵诉说" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c102859/201909/1136764.shtml" >
+												<a href="/seac/c102859/201909/1136764.shtml" target="_blank"  >来自56个民族的心灵诉说</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103073/201812/1130418.shtml" title="视频：青春用来奋斗，和谐值得珍惜">
+														<img src="/seac/c103113/202103/1144678/images/ea4accff2cb44b9bbca1a93a7a49e41b.jpg
+" alt="青春用来奋斗，和谐值得珍惜" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103073/201812/1130418.shtml" >
+												<a href="/seac/c103073/201812/1130418.shtml" target="_blank"  >青春用来奋斗，和谐值得珍惜</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c102859/201909/1136772.shtml" title="视频：与“爱心妈妈”同走幸福路">
+														<img src="/seac/c103113/202103/1144674/images/1d756a7eb71947ccbf4f49b0e286fdf6.jpg
+" alt="与“爱心妈妈”同走幸福路" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c102859/201909/1136772.shtml" >
+												<a href="/seac/c102859/201909/1136772.shtml" target="_blank"  >与“爱心妈妈”同走幸福路</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103073/201812/1130493.shtml" title="视频：草原新气象，看现代牧民的美好生活">
+														<img src="/seac/c103113/202103/1144677/images/85b15d779a7444669c40195916aec72f.jpg
+" alt="草原新气象，看现代牧民的美好生活" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103073/201812/1130493.shtml" >
+												<a href="/seac/c103073/201812/1130493.shtml" target="_blank"  >草原新气象，看现代牧民的美好生活</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c102859/201909/1136770.shtml" title="视频：把民族文化传承好是总书记的嘱托">
+														<img src="/seac/c103113/202103/1144671/images/4bac195a0fe4405b91c3865189fa1eff.jpg
+" alt="把民族文化传承好是总书记的嘱托" />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c102859/201909/1136770.shtml" >
+												<a href="/seac/c102859/201909/1136770.shtml" target="_blank"  >把民族文化传承好是总书记的嘱托</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c102859/201909/1137136.shtml" title="视频：把总书记的关怀和党的好政策唱给农牧民们听">
+														<img src="/seac/c103113/202103/1144672/images/2d0c3f48f73544558fff800359f1e17a.jpg
+" alt="把总书记的关怀和党的好政策唱给农牧民..." />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c102859/201909/1137136.shtml" >
+												<a href="/seac/c102859/201909/1137136.shtml" target="_blank"  >把总书记的关怀和党的好政策唱给农牧民们听</a>
+											</a>
+										</span>
+												</div>
+											</li>
+
+									</ul>
+								</div>
+							</div>
+
+							<a target="_blank" href="/seac/mztj/spzb/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/mztj/spzb/index.shtml" class="moresj">查看更多>></a>
+						</div>
+
+					</div>
+
+
+					<!-- 网上展馆 -->
+					<div class="tab-content zcwzsj tab">
+						<div class="channel_tit2 title">
+							<span class="active">网上展馆</span>
+						</div>
+						<div class="typez">
+
+							<div class="picScroll-left6 mt22">
+								<div class="hd">
+									<a target="_blank" class="next"></a>
+									<a target="_blank" class="prev"></a>
+								</div>
+								<div class="bd">
+									<ul class="picList">
+										 
+											<li>
+												<div class="pic">
+													<a target="_blank" href="http://zhuanti.cpon.cn/558jOduwtO1/" title="铸牢中华民族共同体意识系列展">
+														<img src="/seac/c103542/202309/1167860/images/f575f72b9dd042c392e65c0af9cb74b9.jpeg
+" alt="铸牢中华民族共同体意识系列展" />
+													</a>
+													<span>
+											<a target="_blank" href="http://zhuanti.cpon.cn/558jOduwtO1/" >
+												<a href="http://zhuanti.cpon.cn/558jOduwtO1/" target="_blank"  >铸牢中华民族共同体意识系列展</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="https://www.720yun.com/vr/1482f98gquf" title="喜庆二十大 讴歌新时代——2022年全国少数民族美术作品展">
+														<img src="/seac/c103542/202304/1163387/images/c5fb6eff31764fbdb130e6289b914e9e.png
+" alt="喜庆二十大 讴歌新时代——2022年全国少..." />
+													</a>
+													<span>
+											<a target="_blank" href="https://www.720yun.com/vr/1482f98gquf" >
+												<a href="https://www.720yun.com/vr/1482f98gquf" target="_blank"  >喜庆二十大 讴歌新时代——2022年全国少数民族美术作品展</a>
+											</a>
+										</span>
+												</div>
+											</li>
+											<li>
+												<div class="pic">
+													<a target="_blank" href="/seac/c103107/meiriyibao.shtml" title="民族瑰宝·每日一宝——铸牢中华民族共同体意识系列展">
+														<img src="/seac/c103542/202304/1163386/images/8702186cebd54160b5f5fa8ed6f91702.png
+" alt="民族瑰宝·每日一宝——铸牢中华民族共..." />
+													</a>
+													<span>
+											<a target="_blank" href="/seac/c103107/meiriyibao.shtml" >
+												<a href="/seac/c103107/meiriyibao.shtml" target="_blank"  >民族瑰宝·每日一宝——铸牢中华民族共同体意识系列展</a>
+											</a>
+										</span>
+												</div>
+											</li>
+
+									</ul>
+								</div>
+							</div>
+
+							<!-- <a target="_blank" href="/seac/mztj/spzb/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/mztj/spzb/index.shtml" class="moresj">查看更多>></a> -->
+						</div>
+
+					</div>					
+					
+					
+				</div>
+
+
+
+
+				<div class="fr w380 fwlm fwlmm">
+
+					<div>
+						<a href="/seac/c103391/common_list.shtml" target="_blank">
+							<img src="https://www.neac.gov.cn/seac/xhtml/images/index/daozhonghua.png" style="margin-top:16px; width:100%; height:90px;" />
+						</a>
+					</div>
+
+					<div class="tab-content tab sidelist mt15">
+						<div class="tab-pane on">
+							<ul>
+								 
+									<li>
+										<a href="https://mp.weixin.qq.com/s?__biz=MzkxNDQxMTI0OQ==&mid=2247545074&idx=1&sn=b978d1dbd36f96f7bf49c85b1673c05c&chksm=c0fc672fa59b18f98afe67d43acf3ca6e1b66ff381b4e178de5bcc9fddd2b69129756007fbbb&scene=126&sessionid=1721974898#rd" target="_blank"  >【道中华】这些出土文书，带你走进唐代的吐鲁番</a>
+									</li>
+									
+									<li>
+										<a href="https://mp.weixin.qq.com/s?__biz=MzkxNDQxMTI0OQ==&mid=2247545006&idx=1&sn=4665a3cb4cddbca9279a10b6bcc6ede9&chksm=c008d0c9c8e5b0678006db5b617264eaf7f874a4dd68098d608b5cd016a2d0c787413d09568d&scene=126&sessionid=1721869462#rd" target="_blank"  >【道中华】从“五伦”到“五典”：伊斯兰教中国化的历史进程</a>
+									</li>
+									
+
+							</ul>
+						</div>
+					</div>
+					
+					<div class="picScroll-left mt15">
+						<div class="bd">
+							<ul class="picList">
+								 
+									<li>
+										<div class="pic">
+											<a target="_blank" href="/seac/c103582/mztjjbgs.shtml" title="专题：总书记讲过的民族团结进步故事" target="_blank">
+												<img style="opacity: 1;" src="/seac/c103537/202306/1165271/images/e98f362165d242c98966ba30a4a4493b.jpg
+"></a>
+										</div>
+									</li>
+									<li>
+										<div class="pic">
+											<a target="_blank" href="https://www.neac.gov.cn/seac/c103055/yunxiang.shtml" title="专题：云享多彩中华" target="_blank">
+												<img style="opacity: 1;" src="/seac/c103537/202304/1163139/images/a162f800a0e64bc7ae60cc308f5b4eed.jpg
+"></a>
+										</div>
+									</li>
+
+							</ul>
+						</div>
+					</div>	
+
+
+					<div class="mt15">
+						<ul>
+						 
+							<li>
+								<a href="http://kczyzx.neac.gov.cn:8080/DreamWeb/ctrl/cmsindex" title="中华民族共同体概论资源中心" target="_blank">
+									<img src="/seac/c103649/202402/1170865/images/f04711130de94eb186183471abf83393.png
+" style="width: 100%;"/>
+								</a>
+							</li>
+							
+						</ul>
+					</div>
+					
+					<div class="tab-content tab sidelist mt15">
+						<div class="channel_tit2 title">
+							<a target="_blank" href="/seac/ztzl/index.shtml" class="active">专题推荐</a>
+						</div>
+						<div class="tab-pane on">
+								 
+									<div class="pic zttj" style="clear: left;">
+										<a target="_blank" href="https://www.neac.gov.cn/seac/c103622/cusanjiao.shtml" target="_blank">
+										<img style="opacity: 1; width: 100%; height: auto;" src="/seac/c103618/202309/1167822/images/2f035331324b4f63be3ace5d8b8f5c71.jpeg
+"></a>
+									</div>
+									<div class="pic zttj" style="clear: left;">
+										<a target="_blank" href="/seac/c103377/sanjiao.shtml" target="_blank">
+										<img style="opacity: 1; width: 100%; height: auto;" src="/seac/c103618/202308/1167222/images/a94b78fe087a43f6b0f6341207ac5de1.jpg
+"></a>
+									</div>
+
+
+							<a target="_blank" href="/seac/ztzl/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/ztzl/index.shtml" class="moresj">查看更多>></a>								
+						</div>
+
+
+
+					<div class="tab-content tab sidelist mt15">
+						<div class="channel_tit2 title">
+							<a target="_blank" href="/seac/xwzx/mtgz/index.shtml" class="active">媒体关注</a>
+						</div>
+						<div class="tab-pane on">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xwzx/202407/1174689.shtml" target="_blank"  >【铸牢共同体 中华一家亲】内蒙古构筑中华民族共有精神家园</a>
+									</li>
+									
+									<li>
+										<a href="/seac/xwzx/202407/1174661.shtml" target="_blank"  >【人民日报】塞北草原谱新曲（铸牢共同体 中华一家亲）</a>
+									</li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xwzx/mtgz/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xwzx/mtgz/index.shtml" class="moresj">查看更多>></a>
+						</div>
+					</div>
+
+					<div class="tab-content tab sidelist mt15">
+						<div class="channel_tit2 title">
+							<a target="_blank" href="/seac/xwzx/mtgz/index.shtml" class="active">图解图表</a>
+						</div>					
+														
+							<div class="picScroll-left2">
+								<div class="bd">
+									<ul class="picList">
+										 
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/198372d25a9b4545b5741e971977b045.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/cdc5b4c0389f4c68b3b3220a98bae2bb.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/31e08549d4bb49ce82abd5dd3c640aef.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/ad73ce53b91a49a9a4c1107fa215838d.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/e76391011b3a4b2897b63bc953560d11.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/ed42ee1a9f7247e483d405cdec7f30c6.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/37aba286f92f453d938d6073af0908a9.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/6eee013450a148b39d4ba2d0dacfadbf.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/2b0ab7d68f1c4aa396f75ac761cd16cd.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/1b9ddbc57ee94621a3bde6133706a05d.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/3e42b92d6a124f168660c8c40d92c7d4.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/e33cf3d5c0df4799bbf4d64e05048327.jpeg" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/793a1ae032cc4c66921977baf39f5a7f.png" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/27272477e5d14a6ea22e1b314eceec3e.png" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/71f90325d06a4271a90ffa58115a0382.png" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103258/202309/1168087.shtml">
+															<img src="/seac/c103258/202309/1168087/images/20b9bb27457947d6a2f14b4e58d6ffb6.png" alt="中央民族工作会议会议精神图解">
+														</a>
+													</div>
+												</li>
+
+									</ul>																
+								</div>
+								
+							</div>
+
+							<div class="picScroll-left4">
+								<div class="bd">
+									<ul class="picList">
+										 
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/829a594a28e04cc48c35e8a721621ac5.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/28934824af764f9d8443ce342b8c73d0.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/784b2995f7d340ca950c8aa17f8e6c80.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/4036c4dab30042ee852aefaf30044a42.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/876e92579f1c49368dbf6f9db2d55237.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/87e16b3882cd446ab4f2c83e33227505.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/b70a72cd21e0400094e979be07e47973.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/3e27af4cfa27404dad79c65c4c10690c.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/1dea6fcfbcbc4a6790a7389f3395661e.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/f136fc8260d445a8ae20288bdce21d90.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/ef5b9297898d4e1f99d2dfff8aa0f2c4.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/60cf31bc0e8a47fc995626086377d6e7.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/9741fc6f3df34ed98e48511870c5d3c1.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+<li>
+													<div class="pic">
+														<a target="_blank" href="/seac/c103654/202405/1173383.shtml">
+															<img src="/seac/c103654/202405/1173383/images/7006f839a951475c93f2cf63ad370a19.png" alt="【中国民族报】学习︱习近平论铸牢中华民族共同体意识">
+														</a>
+													</div>
+												</li>
+
+									</ul>
+								</div>
+							</div>
+
+						<div class="tab-pane on">
+									<a target="_blank" href="/seac/c103656/common_list.shtml" class="more">更多>></a>
+									<a target="_blank" href="/seac/c103656/common_list.shtml" class="moresj">查看更多>></a>		
+						</div>		
+																		
+					</div>
+
+					<div class="clear"></div>
+
+					<div class="tab-content tab sidelist mt15">
+						<div class="channel_tit2 title">
+							<a target="_blank" href="/seac/xxgk/xzfw/index.shtml" class="active">下载服务</a>
+						</div>
+						<div class="tab-pane on">
+							<ul>
+								 
+									<li>
+										<a href="/seac/xxgk/202404/1172505.shtml" target="_blank"  >《中共中央办公厅 国务院办公厅关于做好全国民族团结进步模范<br>推荐评选工作的通知》附件</a>
+									</li>
+									
+									<li>
+										<a href="/seac/xxgk/201605/1065075.shtml" target="_blank"  >国家民委机关事业单位干部请（休）假审批单</a>
+									</li>
+									
+
+							</ul>
+							<a target="_blank" href="/seac/xxgk/xzfw/index.shtml" class="more">更多>></a>
+							<a target="_blank" href="/seac/xxgk/xzfw/index.shtml" class="moresj">查看更多>></a>
+						</div>
+					</div>
+
+					<div class="clear"></div>	
+						
+					<div class="tab-content tab sidelist mt15">
+						<div class="channel_tit2 title">
+							<span class="active">委属媒体资源</span>
+						</div>
+						<div class="tab-pane on">
+							<div class="pic zttj" style="clear: left;">
+								<a target="_blank" href="http://www.56-china.com.cn/zoom-46.html"><img style="opacity: 1; width: 100%; height: auto;" src="https://www.neac.gov.cn/seac/xhtml/images/index/banner-zgmz.png"></a>
+							</div>
+							<div class="pic zttj" style="clear: left;">
+								<a target="_blank" href="http://210.12.104.26:81/epaper/"><img style="opacity: 1; width: 100%; height: auto;" src="https://www.neac.gov.cn/seac/xhtml/images/index/banner-mzb.png"></a>
+							</div>
+							<div class="pic zttj" style="clear: left;">
+								<a target="_blank" href="https://pic.mzhb.com/"><img style="opacity: 1; width: 100%; height: auto;" src="https://www.neac.gov.cn/seac/xhtml/images/index/banner-tpk.png"></a>
+							</div>													
+						</div>						
+						
+					</div>
+
+
+				</div>
+				<div class="clear"></div>
+			</div>
+
+				<div class="clear"></div>
+
+			<!--委属高校-->
+			<div class="common3">
+				<div class="tab-content zcwzsj tab">
+					<div class="channel_tit2 title">
+						<span class="active">委属高校</span>
+					</div>
+					<div class="yuanxiaologos">
+							<div class="yuanxiaologo">
+								<a href="/seac/c103410/zhongyang.shtml" target="_blank">
+									<img src="/seac/xhtml/zt/gaoxiao/images/LOGO-zymd.png">
+								</a>
+							</div>
+							<div class="yuanxiaologo">
+								<a href="/seac/c103422/zhongnan.shtml" target="_blank">
+									<img src="/seac/xhtml/zt/gaoxiao/images/LOGO-znmd.png">
+								</a>
+							</div>
+							<div class="yuanxiaologo">
+								<a href="/seac/c103434/xinan.shtml" target="_blank">
+									<img src="/seac/xhtml/zt/gaoxiao/images/LOGO-xnmd.png">
+								</a>
+							</div>
+							<div class="yuanxiaologo">
+								<a href="/seac/c103446/xibei.shtml" target="_blank">
+									<img src="/seac/xhtml/zt/gaoxiao/images/LOGO-xbmd.png">
+								</a>
+							</div>
+							<div class="yuanxiaologo">
+								<a href="/seac/c103458/beifang.shtml" target="_blank">
+									<img src="/seac/xhtml/zt/gaoxiao/images/LOGO-bfmd.png">
+								</a>
+							</div>
+							<div class="yuanxiaologo">
+								<a href="/seac/c103470/dalian.shtml" target="_blank">
+									<img src="/seac/xhtml/zt/gaoxiao/images/LOGO-dlmd.png">
+								</a>
+							</div>
+					</div>
+					<div class="clear"></div>
+	
+				</div>
+			</div>
+
+
+				<div class="footer">
+	<div class="footer_top">
+		<ul>
+			<li class="zfw">
+				<a href="http://www.zytzb.gov.cn/" target="_blank" ><img src="/seac/xhtml/images/public/danghui.png" alt="" />中央统战部</a>
+			</li>			
+			<li class="zfw">
+				<a href="http://www.gov.cn/" target="_blank" ><img src="/seac/xhtml/images/public/guohui.png" alt="" />中国政府网</a>
+			</li>
+			<li>
+				 <div id="dropdown" class="dropdown">
+				      <p>国务院部门</p>
+				      <ol>
+				         	
+			                  <li><a href="http://www.fmprc.gov.cn/web/"  target="_blank">外交部</a></li>
+	
+			                  <li><a href="http://www.mod.gov.cn/  "  target="_blank">国防部</a></li>
+	
+			                  <li><a href="http://www.ndrc.gov.cn/ "  target="_blank">国家发展和改革委员会</a></li>
+	
+			                  <li><a href="http://www.moe.gov.cn/  "  target="_blank">教育部</a></li>
+	
+			                  <li><a href="http://www.most.gov.cn/"  target="_blank">科学技术部</a></li>
+	
+			                  <li><a href="http://www.miit.gov.cn/"  target="_blank">工业和信息化部</a></li>
+	
+			                  <li><a href="https://www.neac.gov.cn/ "  target="_blank">国家民族事务委员会</a></li>
+	
+			                  <li><a href="http://www.mps.gov.cn/ "  target="_blank">公安部</a></li>
+	
+			                  <li><a href="https://www.12339.gov.cn/"  target="_blank">国家安全部</a></li>
+	
+			                  <li><a href="http://www.mca.gov.cn/"  target="_blank">民政部</a></li>
+	
+			                  <li><a href="http://www.moj.gov.cn/"  target="_blank">司法部</a></li>
+	
+			                  <li><a href="http://www.mof.gov.cn/index.htm "  target="_blank">财政部</a></li>
+	
+			                  <li><a href="http://www.mohrss.gov.cn/   "  target="_blank">人力资源和社会保障部</a></li>
+	
+			                  <li><a href="http://www.mnr.gov.cn/"  target="_blank">自然资源部</a></li>
+	
+			                  <li><a href="http://www.mee.gov.cn/"  target="_blank">生态环境部</a></li>
+	
+			                  <li><a href="http://www.mohurd.gov.cn/"  target="_blank">住房和城乡建设部</a></li>
+	
+			                  <li><a href="http://www.mot.gov.cn/ "  target="_blank">交通运输部</a></li>
+	
+			                  <li><a href="http://www.mwr.gov.cn/  "  target="_blank">水利部</a></li>
+	
+			                  <li><a href="http://www.moa.gov.cn/  "  target="_blank">农业农村部</a></li>
+	
+			                  <li><a href="http://www.mofcom.gov.cn/"  target="_blank">商务部</a></li>
+	
+			                  <li><a href="http://www.mct.gov.cn/"  target="_blank">文化和旅游部</a></li>
+	
+			                  <li><a href="http://www.nhc.gov.cn/"  target="_blank">国家卫生健康委员会</a></li>
+	
+			                  <li><a href="http://www.mva.gov.cn/"  target="_blank">退役军人事务部</a></li>
+	
+			                  <li><a href="http://www.mem.gov.cn/"  target="_blank">应急管理部</a></li>
+	
+			                  <li><a href="http://www.pbc.gov.cn/ "  target="_blank">中国人民银行</a></li>
+	
+			                  <li><a href="http://www.audit.gov.cn/ "  target="_blank">审计署</a></li>
+	
+			                  <li><a href="http://www.moe.gov.cn/jyb_sy/China_Language/"  target="_blank">国家语言文字工作委员会</a></li>
+	
+			                  <li><a href="http://www.cnsa.gov.cn/ "  target="_blank">国家航天局</a></li>
+	
+			                  <li><a href="http://www.caea.gov.cn/ "  target="_blank">国家原子能机构</a></li>
+	
+			                  <li><a href="#"  target="_blank">国家外国专家局</a></li>
+	
+			                  <li><a href="#"  target="_blank">国家海洋局</a></li>
+	
+			                  <li><a href="http://nnsa.mee.gov.cn/"  target="_blank">国家核安全局</a></li>
+	
+			                  <li><a href="https://www.nrra.gov.cn/"  target="_blank">国家乡村振兴局</a></li>
+	
+			                  <li><a href="http://www.sasac.gov.cn/ "  target="_blank">国务院国有资产监督管理委员会</a></li>
+	
+			                  <li><a href="http://www.customs.gov.cn/  "  target="_blank">海关总署</a></li>
+	
+			                  <li><a href="http://www.chinatax.gov.cn/"  target="_blank">国家税务总局</a></li>
+	
+			                  <li><a href="https://www.samr.gov.cn/"  target="_blank">国家市场监督管理总局</a></li>
+	
+			                  <li><a href="http://www.cbirc.gov.cn/"  target="_blank">国家金融监督管理总局</a></li>
+	
+			                  <li><a href="http://www.csrc.gov.cn/pub/newsite/ "  target="_blank">中国证券监督管理委员会</a></li>
+	
+			                  <li><a href="http://www.nrta.gov.cn/"  target="_blank">国家广播电视总局</a></li>
+	
+			                  <li><a href="http://www.sport.gov.cn/"  target="_blank">国家体育总局</a></li>
+	
+			                  <li><a href="http://www.gjxfj.gov.cn/"  target="_blank">国家信访局</a></li>
+	
+			                  <li><a href="http://www.stats.gov.cn/"  target="_blank">国家统计局</a></li>
+	
+			                  <li><a href="http://www.cnipa.gov.cn/"  target="_blank">国家知识产权局</a></li>
+	
+			                  <li><a href="http://www.cidca.gov.cn/"  target="_blank">国家国际发展合作署</a></li>
+	
+			                  <li><a href="http://www.nhsa.gov.cn/"  target="_blank">国家医疗保障局</a></li>
+	
+			                  <li><a href="http://www.counsellor.gov.cn/"  target="_blank">国务院参事室</a></li>
+	
+			                  <li><a href="http://www.ggj.gov.cn/ "  target="_blank">国家机关事务管理局</a></li>
+	
+			                  <li><a href="http://www.cnca.gov.cn/ "  target="_blank">国家认证认可监督管理委员会</a></li>
+	
+			                  <li><a href="http://www.sac.gov.cn/  "  target="_blank">国家标准化管理委员会</a></li>
+	
+			                  <li><a href="http://www.ncac.gov.cn/  "  target="_blank">国家新闻出版署（国家版权局）</a></li>
+	
+			                  <li><a href="http://www.sara.gov.cn/ "  target="_blank">国家宗教事务局</a></li>
+	
+			                  <li><a href="http://www.gov.cn/guoqing/2005-12/26/content_2652073.htm "  target="_blank">国务院研究室</a></li>
+	
+			                  <li><a href="http://www.gqb.gov.cn/"  target="_blank">国务院侨务办公室</a></li>
+	
+			                  <li><a href="http://www.hmo.gov.cn/ "  target="_blank">国务院港澳事务办公室</a></li>
+	
+			                  <li><a href="http://www.gwytb.gov.cn/"  target="_blank">国务院台湾事务办公室</a></li>
+	
+			                  <li><a href="http://www.cac.gov.cn/"  target="_blank">国家互联网信息办公室</a></li>
+	
+			                  <li><a href="http://www.scio.gov.cn/index.htm "  target="_blank">国务院新闻办公室</a></li>
+	
+			                  <li><a href="http://203.192.6.89/xhs/ "  target="_blank">新华通讯社</a></li>
+	
+			                  <li><a href="https://www.cas.cn/"  target="_blank">中国科学院</a></li>
+	
+			                  <li><a href="http://www.cass.net.cn/"  target="_blank">中国社会科学院</a></li>
+	
+			                  <li><a href="http://www.cae.cn/"  target="_blank">中国工程院</a></li>
+	
+			                  <li><a href="http://www.drc.gov.cn/ "  target="_blank">国务院发展研究中心</a></li>
+	
+			                  <li><a href="http://www.cma.gov.cn/"  target="_blank">中国气象局</a></li>
+	
+			                  <li><a href="http://www.ccps.gov.cn/"  target="_blank">国家行政学院</a></li>
+	
+			                  <li><a href="http://www.lswz.gov.cn/"  target="_blank">国家粮食和物资储备局</a></li>
+	
+			                  <li><a href="http://www.nea.gov.cn/"  target="_blank">国家能源局</a></li>
+	
+			                  <li><a href="http://www.sastind.gov.cn/ "  target="_blank">国家国防科技工业局</a></li>
+	
+			                  <li><a href="http://www.tobacco.gov.cn/html/ "  target="_blank">国家烟草专卖局</a></li>
+	
+			                  <li><a href="https://www.nia.gov.cn/"  target="_blank">国家移民管理局</a></li>
+	
+			                  <li><a href="http://www.forestry.gov.cn/ "  target="_blank">国家林业和草原局</a></li>
+	
+			                  <li><a href="http://www.nra.gov.cn/ "  target="_blank">国家铁路局</a></li>
+	
+			                  <li><a href="http://www.caac.gov.cn/index.html"  target="_blank">中国民用航空局</a></li>
+	
+			                  <li><a href="http://www.spb.gov.cn/"  target="_blank">国家邮政局</a></li>
+	
+			                  <li><a href="http://www.ncha.gov.cn/"  target="_blank">国家文物局</a></li>
+	
+			                  <li><a href="http://www.natcm.gov.cn/"  target="_blank">国家中医药管理局</a></li>
+	
+			                  <li><a href="https://www.chinamine-safety.gov.cn/"  target="_blank">国家矿山安全监察局</a></li>
+	
+			                  <li><a href="https://www.119.gov.cn/"  target="_blank">国家消防救援局</a></li>
+	
+			                  <li><a href="http://www.safe.gov.cn/  "  target="_blank">国家外汇管理局</a></li>
+	
+			                  <li><a href="http://www.nmpa.gov.cn/"  target="_blank">国家药品监督管理局</a></li>
+
+				      </ol>
+				 </div>
+			</li>
+			<li>
+				<div id="dropdown" class="dropdown2">
+				      <p>地方政府</p>
+				      <ol>
+	
+			                  <li><a href="http://www.beijing.gov.cn/ "  target="_blank">北京市人民政府</a></li>
+	
+			                  <li><a href="http://www.tj.gov.cn/ "  target="_blank">天津市人民政府</a></li>
+	
+			                  <li><a href="http://www.hebei.gov.cn/ "  target="_blank">河北省人民政府</a></li>
+	
+			                  <li><a href="http://www.shanxi.gov.cn/"  target="_blank">山西省人民政府</a></li>
+	
+			                  <li><a href="http://www.nmg.gov.cn/ "  target="_blank">内蒙古自治区人民政府</a></li>
+	
+			                  <li><a href="http://www.ln.gov.cn "  target="_blank">辽宁省人民政府</a></li>
+	
+			                  <li><a href="http://www.jl.gov.cn  "  target="_blank">吉林省人民政府</a></li>
+	
+			                  <li><a href="http://www.hlj.gov.cn "  target="_blank">黑龙江省人民政府</a></li>
+	
+			                  <li><a href="http://www.shanghai.gov.cn/ "  target="_blank">上海市人民政府</a></li>
+	
+			                  <li><a href="http://www.jiangsu.gov.cn/"  target="_blank">江苏省人民政府</a></li>
+	
+			                  <li><a href="http://www.zj.gov.cn/"  target="_blank">浙江省人民政府</a></li>
+	
+			                  <li><a href="http://www.ah.gov.cn/ "  target="_blank">安徽省人民政府</a></li>
+	
+			                  <li><a href="http://www.fujian.gov.cn  "  target="_blank">福建省人民政府</a></li>
+	
+			                  <li><a href="http://www.jiangxi.gov.cn "  target="_blank">江西省人民政府</a></li>
+	
+			                  <li><a href="http://www.shandong.gov.cn/"  target="_blank">山东省人民政府</a></li>
+	
+			                  <li><a href="http://www.henan.gov.cn/  "  target="_blank">河南省人民政府</a></li>
+	
+			                  <li><a href="http://www.hubei.gov.cn/ "  target="_blank">湖北省人民政府</a></li>
+	
+			                  <li><a href="http://www.hunan.gov.cn/"  target="_blank">湖南省人民政府</a></li>
+	
+			                  <li><a href="http://www.gd.gov.cn/"  target="_blank">广东省人民政府</a></li>
+	
+			                  <li><a href="http://www.gxzf.gov.cn/ "  target="_blank">广西壮族自治区人民政府</a></li>
+	
+			                  <li><a href="http://www.hainan.gov.cn/"  target="_blank">海南省人民政府</a></li>
+	
+			                  <li><a href="http://www.cq.gov.cn/  "  target="_blank">重庆市人民政府</a></li>
+	
+			                  <li><a href="http://www.sc.gov.cn "  target="_blank">四川省人民政府</a></li>
+	
+			                  <li><a href="http://www.guizhou.gov.cn/"  target="_blank">贵州省人民政府</a></li>
+	
+			                  <li><a href="http://www.yn.gov.cn/ "  target="_blank">云南省人民政府</a></li>
+	
+			                  <li><a href="http://www.xizang.gov.cn/"  target="_blank">西藏自治区人民政府</a></li>
+	
+			                  <li><a href="http://www.shaanxi.gov.cn/ "  target="_blank">陕西省人民政府</a></li>
+	
+			                  <li><a href="http://www.gansu.gov.cn/ "  target="_blank">甘肃省人民政府</a></li>
+	
+			                  <li><a href="http://www.qinghai.gov.cn/"  target="_blank">青海省人民政府</a></li>
+	
+			                  <li><a href="http://www.nx.gov.cn/ "  target="_blank">宁夏回族自治区人民政府</a></li>
+	
+			                  <li><a href="https://www.xinjiang.gov.cn/  "  target="_blank">新疆维吾尔自治区人民政府</a></li>
+	
+			                  <li><a href="https://www.gov.hk/sc/residents/"  target="_blank">香港特别行政区政府</a></li>
+	
+			                  <li><a href="https://www.gov.mo/zh-hans/"  target="_blank">澳门特别行政区政府</a></li>
+	
+			                  <li><a href="#"  target="_blank">台湾</a></li>
+	
+			                  <li><a href="http://www.xjbt.gov.cn/ "  target="_blank">新疆生产建设兵团</a></li>
+
+				      </ol>
+				 </div>
+			</li>
+			<li>
+				<div id="dropdown" class="dropdown3">
+				      <p>直属单位</p>
+				      <ol>
+	
+			                  <li><a href="http://www.muc.edu.cn/ "  target="_blank">中央民族大学</a></li>
+	
+			                  <li><a href="http://www.scuec.edu.cn/"  target="_blank">中南民族大学</a></li>
+	
+			                  <li><a href="http://www.swun.edu.cn/ "  target="_blank">西南民族大学</a></li>
+	
+			                  <li><a href="http://www.xbmu.edu.cn/ "  target="_blank">西北民族大学</a></li>
+	
+			                  <li><a href="https://www.nmu.edu.cn/"  target="_blank">北方民族大学</a></li>
+	
+			                  <li><a href="http://www.dlnu.edu.cn/"  target="_blank">大连民族大学</a></li>
+	
+			                  <li><a href="https://www.mzywfyj.org.cn/"  target="_blank">中国民族语文翻译中心（局）</a></li>
+	
+			                  <li><a href="http://www.zymzgwt.com.cn/ 	"  target="_blank">中央民族歌舞团</a></li>
+	
+			                  <li><a href="http://www.mzpub.com/"  target="_blank">民族出版社</a></li>
+	
+			                  <li><a href="http://www.mzhb.com/ "  target="_blank">民族画报社</a></li>
+	
+			                  <li><a href="http://www.56-china.com.cn/"  target="_blank">民族团结杂志社</a></li>
+	
+			                  <li><a href="http://www.cpon.cn/	"  target="_blank">民族文化宫</a></li>
+	
+			                  <li><a href="http://www.cnmuseum.com	"  target="_blank">中国民族博物馆</a></li>
+	
+			                  <li><a href="http://www.mzb.com.cn"  target="_blank">中国民族报社</a></li>
+	
+			                  <li><a href="https://www.mzgbxy.org.cn/"  target="_blank">中央民族干部学院</a></li>
+
+				      </ol>
+				 </div>
+			</li>
+			<li>
+				<div id="dropdown" class="dropdown4">
+				      <p>地方民委</p>
+				      <ol>
+	
+			                  <li><a href="http://mzzjw.beijing.gov.cn/"  target="_blank">北京市民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzzj.tj.gov.cn/"  target="_blank">天津市民族和宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mw.hebei.gov.cn/"  target="_blank">河北省民族事务委员会</a></li>
+	
+			                  <li><a href="http://mw.nmg.gov.cn/"  target="_blank">内蒙古自治区民族事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.ln.gov.cn/"  target="_blank">辽宁省民族和宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mw.jl.gov.cn "  target="_blank">吉林省民族事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.hlj.gov.cn/"  target="_blank">黑龙江省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzzj.sh.gov.cn/"  target="_blank">上海市民族和宗教事务局</a></li>
+	
+			                  <li><a href="http://mzw.jiangsu.gov.cn/"  target="_blank">江苏省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.zj.gov.cn/"  target="_blank">浙江省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mwzjj.ah.gov.cn/"  target="_blank">安徽省民族事务委员会</a></li>
+	
+			                  <li><a href="http://mzzjt.fujian.gov.cn/"  target="_blank">福建省民族与宗教事务厅</a></li>
+	
+			                  <li><a href="http://mzj.jiangxi.gov.cn/"  target="_blank">江西省民族宗教事务局</a></li>
+	
+			                  <li><a href="http://mzw.shandong.gov.cn/"  target="_blank">山东省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://hnsmzzjw.henan.gov.cn/"  target="_blank">河南省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.hubei.gov.cn/"  target="_blank">湖北省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.hunan.gov.cn/"  target="_blank">湖南省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzzjw.gd.gov.cn/"  target="_blank">广东省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.gxzf.gov.cn/"  target="_blank">广西壮族自治区民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://smzw.hainan.gov.cn/"  target="_blank">海南省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzzjw.cq.gov.cn/"  target="_blank">重庆市民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.sc.gov.cn/"  target="_blank">四川省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.guizhou.gov.cn/"  target="_blank">贵州省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzzj.yn.gov.cn/"  target="_blank">云南省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mw.xizang.gov.cn/"  target="_blank">西藏自治区民族事务委员会</a></li>
+	
+			                  <li><a href="http://mzzj.shaanxi.gov.cn/"  target="_blank">陕西省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzsw.gansu.gov.cn/"  target="_blank">甘肃省民族事务委员会</a></li>
+	
+			                  <li><a href="http://mzw.qinghai.gov.cn/"  target="_blank">青海省民族宗教事务委员会</a></li>
+	
+			                  <li><a href="http://mzzj.nx.gov.cn/"  target="_blank">宁夏回族自治区民族事务委员会</a></li>
+	
+			                  <li><a href="https://mwzjswj.xinjiang.gov.cn/"  target="_blank">新疆维吾尔自治区民族事务委员会</a></li>
+
+				      </ol>
+				 </div>
+			</li>
+			<!-- <li class="zyg img">
+				<a href="http://zygjjg.12388.gov.cn/" target="_blank"><img src="/seac/xhtml/images/public/zygjjgjb.png" alt="" /></a>
+			</li> -->
+			<li class="fgw img">
+				<a href="http://www.gov.cn/zhuanti/2017fgfzt/index.htm" target="_blank"><img src="/seac/xhtml/images/public/fgwggzxdc.png" alt="" /></a>
+			</li>
+			<div class="clear"></div>
+		</ul>
+	</div>
+	<div class="footer_fl fl">
+		<div class="top">
+	
+				<a href="/seac/c102001/201806/1065906.shtml" target="_blank" title='联系我们'  >联系我们</a>
+
+			<span>|</span><a href="/seac/wzdt/index.shtml">网站地图</a>
+		</div>
+		<p>版权所有：中华人民共和国国家民族事务委员会 <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备05048973号</a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700045" target="_blank"><img src="/seac/xhtml/images/public/bah.png" alt="" />京公网安备 11040102700045号</a> <br /> 
+地址：北京市西城区复兴门内大街甲49号 <span style="display:inline-block">邮政编码 100800</span>  网站维护：国家民委舆情中心  </p>
+	<p class="llqjy">建议使用IE9.0以上版本浏览器</p>
+	</div>
+	<div class="footer_fr fr">
+		<ul>
+			<li class="dzjg"><a href="http://bszs.conac.cn/sitename?method=show&id=0627BF3ADA7F78F3E053012819ACE9A9" ><img src="/seac/xhtml/images/public/dzjg.png" alt="" /></a></li>
+			<li class="zc"><a href="http://121.43.68.40/exposure/jiucuo.html?site_code=bm08000014&url=https%3A%2F%2Fwww.neac.gov.cn%2F" ><img src="/seac/xhtml/images/public/zc.png" alt="" /></a></li>
+			<!-- <li class="blwz"><a href="https://www.neac.gov.cn/blxxjb/blxxjb/xxgk/blxxjb.shtml" target="_blank"><img src="/seac/xhtml/images/public/blwlxxjb.png" alt="" /></a></li> -->
+			<li class="gfwx"><a><img src="/seac/xhtml/images/public/gfwx.png" alt="" />
+			<span>官方微信</span></a></li>
+		</ul>
+	</div>
+	<script language="JavaScript">var _trackDataType = 'web';var _trackData = _trackData || [];</script>
+<script type="text/javascript" charset="utf-8" id="kpyfx_js_id_10005996" src="//fxsjcj.kaipuyun.cn/count/10005996/10005996.js"></script>
+
+<script defer async type="text/javascript" src="//gov.govwza.cn/dist/aria.js?appid=40b6e226d8f0b5f517069c6d2f1a469d" charset="utf-8"></script>
+			</div>
+
+			<script type="text/javascript">
+				jQuery(".picScroll-left").slide({
+					titCell: ".hd ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "left",
+					autoPlay: true,
+					vis: 1,
+					trigger: "click",
+					interTime: "5000"
+				});
+				jQuery(".picScroll-left1").slide({
+					titCell: ".hd ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "left",
+					autoPlay: true,
+					vis: 1,
+					trigger: "click",
+					interTime: "5000"
+				});
+				jQuery(".picScroll-left2").slide({
+					titCell: ".hd ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "top",
+					autoPlay: true,
+					vis: 1,
+					trigger: "click",
+					interTime: "5000"
+				});
+				jQuery(".picScroll-left3").slide({
+					titCell: ".hd ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "left",
+					autoPlay: false,
+					vis: 2,
+					trigger: "click",
+					interTime: "5000"
+				});
+			
+				jQuery(".picScroll-left4").slide({
+					titCell: ".hd ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "top",
+					autoPlay: true,
+					vis: 1,
+					trigger: "click",
+					interTime: "8000"
+				});
+				jQuery(".picScroll-left5").slide({
+					titCell: ".hd ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "left",
+					autoPlay: false,
+					vis: 4,
+					trigger: "click",
+					interTime: "5000"
+				});		
+				jQuery(".picScroll-left6").slide({
+					titCell: ".hd ul",
+					mainCell: ".bd ul",
+					autoPage: true,
+					effect: "left",
+					autoPlay: false,
+					vis: 2,
+					trigger: "click",
+					interTime: "5000"
+				});											
+			</script>
+
+			<script type="text/javascript">
+				var isinter;
+				var millisec = 25; //定时器间隔执行时间/毫秒
+				var xflo = 0; //漂浮层x坐标
+				var yflo = 0; //漂浮层y坐标
+				var yistop = false;
+				var xisleft = true;
+
+				function floatadfun() {
+					kwidth = $(window).width(); //可视区域宽度
+					kheight = $(window).height(); //可视区域高度
+
+					divwidth = $('#floatdivids').width(); //div漂浮层宽度
+					divheight = $('#floatdivids').height(); //div漂浮层高度
+
+					hstop = jQuery(window).scrollTop(); //滚动条距离顶部的高度
+					wsleft = jQuery(window).scrollLeft(); //滚动条距离最左边的距离
+
+					offwidth = (kwidth - divwidth); //div偏移的宽度
+					offheight = (kheight - divheight); //div偏移的高度
+
+					if(!yistop) {
+						yflo++;
+						if(yflo >= offheight) {
+							yistop = true;
+						}
+					} else {
+						yflo--;
+						if(yflo <= 0) {
+							yistop = false;
+						}
+					}
+
+					if(xisleft) {
+						xflo++;
+						if(xflo >= offwidth) {
+							xisleft = false;
+						}
+					} else {
+						xflo--;
+						if(xflo <= 0) {
+							xisleft = true;
+						}
+					}
+
+					$('#floatdivids').css({
+						'top': yflo + hstop,
+						'left': xflo + wsleft
+					}); /* 如果使用固定定位，请把加上滚动条的距离去掉即可 */
+				}
+
+				$(function() {
+					isinter = setInterval("floatadfun()", millisec);
+					$('#floatdivids').mouseover(function() {
+						clearInterval(isinter);
+					}).mouseout(function() {
+						isinter = setInterval("floatadfun()", millisec);
+					});
+					$('#ClickRemoveFlo').click(function() {
+						$(this).parents("#floatdivids").slideUp(500, function() {
+							clearInterval(isinter);
+							$(this).remove();
+						});
+					});
+				});
+			</script>
+
+			 
+
+
+	</body>
+
+</html>
